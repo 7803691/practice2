@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="tweeter test" verbose="0" >
+
+    <test name="CreateSimpleTweet" >
+        <classes>
+            <class name="pages.LoginPage"/>
+            <class name="com.kdv.tests.SimpleTweet"/>
+        </classes>
+    </test>
+</suite>
