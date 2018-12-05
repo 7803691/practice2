@@ -1,0 +1,2103 @@
+2018-12-03 10:26:24,716  INFO [main] Log:10 - Click on button Log in
+2018-12-03 10:26:26,907  INFO [main] Log:10 - Send user name to input7803691@gmail.com
+2018-12-03 10:29:12,294  INFO [main] Log:10 - Click on button Log in
+2018-12-03 10:29:14,172  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 10:29:14,395  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 10:29:14,496  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 10:32:29,527  INFO [main] Log:10 - Click on "Log in button" on First page
+2018-12-03 10:32:30,884  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 10:32:31,105  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 10:32:31,386  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 10:32:37,991  INFO [main] Log:10 - Click on "Log in button" on First page
+2018-12-03 10:32:40,673  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-03 10:32:40,926  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 10:32:41,022  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 10:35:16,853 DEBUG [main] Log:26 - Create object pages.FirstPage@4b8ee4de
+2018-12-03 10:35:16,853  INFO [main] Log:10 - Click on "Log in button" on First page
+2018-12-03 10:35:17,213 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 10:35:18,484  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 10:35:18,988  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 10:35:19,085  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 10:35:20,907 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 10:35:24,829 DEBUG [main] Log:26 - Create object pages.FirstPage@7fb4f2a9
+2018-12-03 10:35:26,611 DEBUG [main] Log:26 - Create object pages.FirstPage@2f953efd
+2018-12-03 10:35:26,612  INFO [main] Log:10 - Click on "Log in button" on First page
+2018-12-03 10:35:26,736 DEBUG [main] Log:26 - Create object pages.LoginPage@29f7cefd
+2018-12-03 10:35:30,643  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-03 10:35:30,852  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 10:35:30,975  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 10:35:32,900 DEBUG [main] Log:26 - Create object pages.TweetPage@747f281
+2018-12-03 10:35:35,792 DEBUG [main] Log:26 - Create object pages.FirstPage@7d94beb9
+2018-12-03 10:38:38,957 DEBUG [main] Log:26 - Create new WebDriverChromeDriver: chrome on XP (44ce44fe81435bfa7632b879f523c69d)
+2018-12-03 10:38:39,160 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 10:38:42,953 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 10:38:42,968  INFO [main] Log:10 - Click on "Log in button" on First page
+2018-12-03 10:38:43,190 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 10:38:44,555  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 10:38:44,814  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 10:38:44,924  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 10:38:46,899 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 10:38:50,063 DEBUG [main] Log:26 - Create object pages.FirstPage@7fb4f2a9
+2018-12-03 10:38:50,981 DEBUG [main] Log:26 - Create object pages.FirstPage@2f953efd
+2018-12-03 10:38:50,981  INFO [main] Log:10 - Click on "Log in button" on First page
+2018-12-03 10:38:51,302 DEBUG [main] Log:26 - Create object pages.LoginPage@29f7cefd
+2018-12-03 10:38:54,906  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-03 10:38:55,109  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 10:38:55,209  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 10:38:57,701 DEBUG [main] Log:26 - Create object pages.TweetPage@70e38ce1
+2018-12-03 10:39:00,530 DEBUG [main] Log:26 - Create object pages.FirstPage@7b993c65
+2018-12-03 11:00:04,162 DEBUG [main] Log:26 - Create new WebDriverChromeDriver: chrome on XP (51e50aef51e08dc6430152e040abf185)
+2018-12-03 11:00:04,193 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 11:00:08,571 DEBUG [main] Log:26 - Create object pages.FirstPage@173ed316
+2018-12-03 11:00:08,571  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 11:00:08,752 DEBUG [main] Log:26 - Create object pages.LoginPage@7bba5817
+2018-12-03 11:00:09,993  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 11:00:11,005  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 11:00:11,120  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 11:00:21,522 DEBUG [main] Log:26 - Create object pages.TweetPage@2a8448fa
+2018-12-03 11:00:21,560 DEBUG [main] Log:26 - Get count of tweets
+2018-12-03 11:00:21,560 DEBUG [main] Log:26 - Run JavaScript which scroll page down and back to the top
+2018-12-03 11:00:22,493  INFO [main] Log:10 - Click on area for create new tweet
+2018-12-03 11:00:22,700  INFO [main] Log:10 - Write new tweet with text - haeqgyrvwf
+2018-12-03 11:00:23,005  INFO [main] Log:10 - Click on "Tweet" button
+2018-12-03 11:00:23,266 DEBUG [main] Log:26 - Waiting for message "New tweet"
+2018-12-03 11:00:34,309 DEBUG [main] Log:26 - Get text from last Tweet
+2018-12-03 11:00:34,515 DEBUG [main] Log:26 - Get count of tweets
+2018-12-03 11:00:34,515 DEBUG [main] Log:26 - Run JavaScript which scroll page down and back to the top
+2018-12-03 11:00:34,643 DEBUG [main] Log:26 - Get text from last Tweet
+2018-12-03 11:00:34,720  INFO [main] Log:10 - Click on "Profile and Settins Icon"
+2018-12-03 11:00:34,893 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-03 11:00:34,963  INFO [main] Log:10 - Click on "Log out" item
+2018-12-03 11:00:35,135 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-03 11:00:37,026 DEBUG [main] Log:26 - Create object pages.FirstPage@f14a7d4
+2018-12-03 11:04:05,654 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (a446b9480b8f5edcbceb5470d4af8a84)
+2018-12-03 11:04:05,686 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 11:04:09,863 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 11:04:09,863  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 11:04:10,007 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 11:04:11,339  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 11:04:11,852  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 11:04:11,951  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 11:04:14,427 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 11:04:14,573 DEBUG [main] Log:26 - Get count of tweets
+2018-12-03 11:04:14,574 DEBUG [main] Log:26 - Run JavaScript which scroll page down and back to the top
+2018-12-03 11:04:36,180 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (a446b9480b8f5edcbceb5470d4af8a84)Close
+2018-12-03 11:05:40,392 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (97449e0d8eb5cbb1f8ed2f8f647c4f3d)
+2018-12-03 11:05:40,408 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 11:05:46,574 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 11:05:46,574  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 11:05:46,725 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 11:05:48,087  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 11:05:48,589  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 11:05:48,691  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 11:05:54,115 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 11:05:54,130 DEBUG [main] Log:26 - Get count of tweets
+2018-12-03 11:05:54,130 DEBUG [main] Log:26 - Run JavaScript which scroll page down and back to the top
+2018-12-03 11:05:54,834  INFO [main] Log:10 - Click on area for create new tweet
+2018-12-03 11:05:55,058  INFO [main] Log:10 - Write new tweet with text - focglnswiv
+2018-12-03 11:05:55,305  INFO [main] Log:10 - Click on "Tweet" button
+2018-12-03 11:05:55,511 DEBUG [main] Log:26 - Waiting for message "New tweet"
+2018-12-03 11:06:06,551 DEBUG [main] Log:26 - Get text from last Tweet
+2018-12-03 11:06:06,780 DEBUG [main] Log:26 - Get count of tweets
+2018-12-03 11:06:06,780 DEBUG [main] Log:26 - Run JavaScript which scroll page down and back to the top
+2018-12-03 11:06:06,951 DEBUG [main] Log:26 - Get text from last Tweet
+2018-12-03 11:06:07,010  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-03 11:06:07,210 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-03 11:06:07,300  INFO [main] Log:10 - Click on "Log out" item
+2018-12-03 11:06:07,443 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-03 11:06:08,564 DEBUG [main] Log:26 - Create object pages.FirstPage@29a5f4e7
+2018-12-03 11:06:08,564 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (97449e0d8eb5cbb1f8ed2f8f647c4f3d)Close
+2018-12-03 12:16:21,965 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (109a8720243e8ef5b48dda65bb9b4a43)
+2018-12-03 12:16:22,121 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 12:16:25,775 DEBUG [main] Log:26 - Create object pages.FirstPage@173ed316
+2018-12-03 12:16:25,775  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 12:16:26,132 DEBUG [main] Log:26 - Create object pages.LoginPage@7bba5817
+2018-12-03 12:16:27,619  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 12:16:27,879  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 12:16:27,994  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 12:16:30,126 DEBUG [main] Log:26 - Create object pages.TweetPage@2a8448fa
+2018-12-03 12:16:30,127  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 12:16:31,444 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 12:16:31,448 DEBUG [main] Log:26 - Create object pages.MessagePage@15888343
+2018-12-03 12:16:31,449  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 12:16:38,460  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-03 12:16:38,907 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 12:16:42,987  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 12:16:43,064  INFO [main] Log:10 - Write message whith text - knzhcyaqhi
+2018-12-03 12:16:53,595 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (109a8720243e8ef5b48dda65bb9b4a43)Close
+2018-12-03 14:09:18,300 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (c12789a3c55571b526902b4318e0ba35)
+2018-12-03 14:09:18,459 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:09:25,220 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:09:25,220  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:09:25,462 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:09:26,812  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:09:27,481  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:09:27,665  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:09:53,862 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:09:53,862  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:09:54,216 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 14:09:54,220 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 14:09:54,220  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 14:09:55,643  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-03 14:09:56,232 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 14:09:56,370  INFO [main] Log:10 - Click on recipient testAccount2 @testAcc02011488
+2018-12-03 14:09:56,529  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 14:09:56,797  INFO [main] Log:10 - Write message whith text - xmmobcsaup
+2018-12-03 14:10:07,525 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (c12789a3c55571b526902b4318e0ba35)Close
+2018-12-03 14:15:31,469 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (4143bb0a307504253cd9af2d44b3d77a)
+2018-12-03 14:15:31,485 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:15:36,865 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:15:36,865  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:15:37,025 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:15:38,672  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:15:39,010  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:15:39,158  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:15:48,873 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:15:48,873  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:15:49,216 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 14:15:49,219 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 14:15:49,220  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 14:15:49,529  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-03 14:15:49,862 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 14:16:10,443 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (4143bb0a307504253cd9af2d44b3d77a)Close
+2018-12-03 14:28:09,508 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (af4e8414d10569fb5d1ec3ade48bf7c5)
+2018-12-03 14:28:09,520 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:28:21,599 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:28:21,600  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:28:25,054 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:28:25,134  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:28:25,399  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:28:25,508  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:28:28,129 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:28:28,130  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:28:28,958 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (af4e8414d10569fb5d1ec3ade48bf7c5)Close
+2018-12-03 14:28:39,323 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (86ba889634b03bd2f1400d9ad7b4010a)
+2018-12-03 14:28:39,337 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:28:45,009 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:28:45,010  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:28:45,577 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:28:46,882  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:28:47,095  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:28:47,215  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:28:57,358 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:28:57,360  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:28:57,733 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 14:28:57,823 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 14:28:57,824  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 14:28:58,057  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 14:28:58,444 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 14:28:58,540 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (86ba889634b03bd2f1400d9ad7b4010a)Close
+2018-12-03 14:31:52,888 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (39c4cffae631968bcf1422f2fa95b842)
+2018-12-03 14:31:52,919 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:31:57,784 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:31:57,785  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:31:58,249 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:31:59,828  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:32:00,110  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:32:00,230  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:32:05,531 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:32:05,532  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:32:05,854 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 14:32:05,858 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 14:32:05,858  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 14:32:06,081  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 14:32:06,388 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 14:32:06,500 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (39c4cffae631968bcf1422f2fa95b842)Close
+2018-12-03 14:33:50,794 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (a46e17fac97524abe97d7c7f139b9d37)
+2018-12-03 14:33:50,825 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:33:55,210 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:33:55,210  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:33:55,724 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:33:57,558  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:33:57,832  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:33:57,927  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:34:03,722 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:34:03,723  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:34:04,080 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 14:34:04,084 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 14:34:04,084  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 14:34:04,496  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 14:34:04,903 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 14:34:06,496 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (a46e17fac97524abe97d7c7f139b9d37)Close
+2018-12-03 14:34:55,346 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (b3fe2504a8c63479aaa27e8db694534e)
+2018-12-03 14:34:55,362 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:35:03,766 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:35:03,768  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:35:03,951 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:35:05,336  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:35:05,846  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:35:05,945  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:35:13,207 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:35:13,208  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:35:13,961 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 14:35:13,984 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 14:35:13,984  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 14:35:14,226  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 14:35:14,516 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 14:35:23,242  INFO [main] Log:10 - Click on recipient
+2018-12-03 14:35:23,387  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 14:35:23,645  INFO [main] Log:10 - Write message with text - ymcqseldbz
+2018-12-03 14:35:23,881  INFO [main] Log:10 - Click on "Send" Button
+2018-12-03 14:35:24,236 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:35:24,372 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 14:35:24,373 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:35:24,457 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 14:35:24,457 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:35:24,587 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (b3fe2504a8c63479aaa27e8db694534e)Close
+2018-12-03 14:36:24,568 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (30873b54630af888d37bfba0323513c2)
+2018-12-03 14:36:24,584 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:36:34,192 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:36:34,193  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:36:34,360 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:36:36,127  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:36:36,368  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:36:36,502  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:36:45,893 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:36:45,893  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:36:46,286 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 14:36:46,310 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 14:36:46,311  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 14:36:46,643  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 14:36:46,990 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 14:36:47,052  INFO [main] Log:10 - Click on recipient
+2018-12-03 14:36:47,306  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 14:36:47,746  INFO [main] Log:10 - Write message with text - riffhwfbgd
+2018-12-03 14:36:48,058  INFO [main] Log:10 - Click on "Send" Button
+2018-12-03 14:36:48,308 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:36:48,490 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 14:36:48,490 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:36:48,648 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 14:36:48,648 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:36:48,847 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (30873b54630af888d37bfba0323513c2)Close
+2018-12-03 14:39:26,019 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (1d0fbf2d687c8e1354b2a150ca3c2529)
+2018-12-03 14:39:26,051 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:39:31,766 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:39:31,767  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:39:31,926 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:39:33,566  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:39:33,902  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:39:34,032  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:39:40,200 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:39:40,200  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:39:40,543 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 14:39:40,613 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 14:39:40,614  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 14:39:40,930  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 14:39:41,292 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 14:39:41,553 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (1d0fbf2d687c8e1354b2a150ca3c2529)Close
+2018-12-03 14:54:56,125 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (c70ee876c952c0a400385b2dc14ad1f2)
+2018-12-03 14:54:56,139 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:55:06,443 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:55:06,443  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:55:06,677 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:55:08,081  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:55:08,441  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:55:08,566  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:55:13,551 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:55:13,551  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:55:17,901 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 14:55:18,016 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 14:55:18,016  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 14:55:18,268  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 14:55:18,862 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 14:55:24,221  INFO [main] Log:10 - Click on recipient - testAccount2
+2018-12-03 14:55:24,383  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 14:55:24,685  INFO [main] Log:10 - Write message with text - qpsoxuyypr
+2018-12-03 14:55:25,221  INFO [main] Log:10 - Click on "Send" Button
+2018-12-03 14:55:25,445 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:55:25,675 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 14:55:25,675 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:55:25,775 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 14:55:25,775 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:55:26,212 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (c70ee876c952c0a400385b2dc14ad1f2)Close
+2018-12-03 14:56:11,473 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (68594b047c9c97cb12674e9984c6bf3c)
+2018-12-03 14:56:11,485 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 14:56:15,183 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 14:56:15,183  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 14:56:15,700 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 14:56:17,205  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 14:56:17,465  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 14:56:17,568  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 14:56:21,266 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 14:56:21,266  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 14:56:22,218 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 14:56:22,221 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 14:56:22,222  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 14:56:22,506  INFO [main] Log:10 - Input in "Enter name field" recipient -testAcc02011488 
+2018-12-03 14:56:22,795 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 14:56:29,132  INFO [main] Log:10 - Click on recipient - testAccount2
+2018-12-03 14:56:29,391  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 14:56:29,695  INFO [main] Log:10 - Write message with text - gspvbzdhlw
+2018-12-03 14:56:30,000  INFO [main] Log:10 - Click on "Send" Button
+2018-12-03 14:56:30,364 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:56:30,489 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 14:56:30,489 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:56:30,638 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 14:56:30,638 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 14:56:30,847 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (68594b047c9c97cb12674e9984c6bf3c)Close
+2018-12-03 15:38:00,756 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (8182ad9c920c56612b0510d879717aee)
+2018-12-03 15:38:00,784 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 15:38:07,608 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 15:38:07,608  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 15:38:08,222 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 15:38:10,033  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 15:38:10,565  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 15:38:10,660  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 15:38:15,619 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 15:38:15,620  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 15:38:21,721 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 15:38:21,780 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 15:38:21,780  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 15:38:22,042  INFO [main] Log:10 - Input in "Enter name field" recipient -testAcc02011488 
+2018-12-03 15:38:22,395 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 15:38:33,935  INFO [main] Log:10 - Click on recipient - testAccount2
+2018-12-03 15:38:34,107  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 15:38:34,369  INFO [main] Log:10 - Write message with text - ngiixczwkt
+2018-12-03 15:38:34,757  INFO [main] Log:10 - Click on "Send" Button
+2018-12-03 15:38:35,007 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:38:35,092 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 15:38:35,092 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:38:35,178 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 15:38:35,179 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:38:35,315 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (8182ad9c920c56612b0510d879717aee)Close
+2018-12-03 15:38:59,564 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (acb530bbf3031f8ffc257b80ae4ed2fa)
+2018-12-03 15:38:59,577 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 15:39:04,316 DEBUG [main] Log:26 - Create object pages.FirstPage@17f62e33
+2018-12-03 15:39:04,317  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 15:39:04,800 DEBUG [main] Log:26 - Create object pages.LoginPage@350aac89
+2018-12-03 15:39:06,170  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 15:39:06,436  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 15:39:06,537  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 15:39:11,281 DEBUG [main] Log:26 - Create object pages.TweetPage@5f8e8a9d
+2018-12-03 15:39:11,282  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 15:39:11,707 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 15:39:11,711 DEBUG [main] Log:26 - Create object pages.MessagePage@6e2829c7
+2018-12-03 15:39:11,712  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 15:39:12,012  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 15:39:12,393 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 15:39:12,480 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (acb530bbf3031f8ffc257b80ae4ed2fa)Close
+2018-12-03 15:40:47,044 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (365e05a2cd0b0e7af5da0f6b03880d70)
+2018-12-03 15:40:47,057 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 15:40:53,528 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 15:40:53,529  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 15:40:53,686 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 15:40:55,032  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 15:40:55,575  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 15:40:55,712  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 15:41:00,914 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 15:41:00,915  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 15:41:01,285 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 15:41:01,289 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 15:41:01,289  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 15:41:01,667  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 15:41:01,971 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 15:41:02,092  INFO [main] Log:10 - Click on recipient - testAccount2
+2018-12-03 15:41:02,275  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 15:41:02,571  INFO [main] Log:10 - Write message with text - glqgbjfwiy
+2018-12-03 15:41:03,096  INFO [main] Log:10 - Click on "Send" Button
+2018-12-03 15:41:03,300 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:41:03,335 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 15:41:03,336 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:41:03,394 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 15:41:03,394 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:41:03,457 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (365e05a2cd0b0e7af5da0f6b03880d70)Close
+2018-12-03 15:44:01,914 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (3ff3196e4225cbf3c6258fdcfc21cc8b)
+2018-12-03 15:44:01,930 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 15:44:07,877 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 15:44:07,877  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 15:44:08,001 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 15:44:09,524  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 15:44:09,768  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 15:44:09,902  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 15:44:15,360 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 15:44:15,361  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 15:44:15,798 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 15:44:15,803 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 15:44:15,804  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 15:44:16,116  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 15:44:16,467 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 15:44:16,636 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (3ff3196e4225cbf3c6258fdcfc21cc8b)Close
+2018-12-03 15:44:43,664 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (38c7318cde2962e4b3b4e1adbb85268d)
+2018-12-03 15:44:43,684 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 15:44:50,268 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 15:44:50,268  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 15:44:50,402 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 15:44:52,051  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 15:44:52,304  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 15:44:52,408  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 15:45:04,516 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 15:45:04,517  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 15:45:04,852 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 15:45:04,856 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 15:45:04,856  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 15:45:05,102  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 15:45:05,392 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 15:45:05,472 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (38c7318cde2962e4b3b4e1adbb85268d)Close
+2018-12-03 15:47:44,011 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (473847fd0c79db0747d4615e7b51780c)
+2018-12-03 15:47:44,042 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 15:47:49,155 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 15:47:49,155  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 15:47:49,298 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 15:47:50,594  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 15:47:51,081  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 15:47:51,191  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 15:47:55,802 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 15:47:55,802  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 15:47:56,142 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 15:47:56,147 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 15:47:56,147  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 15:47:56,534  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 15:47:56,847 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 15:47:56,992  INFO [main] Log:10 - Click on recipient - testAccount2 @testAcc02011488
+2018-12-03 15:47:57,191  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 15:47:57,585  INFO [main] Log:10 - Write message with text - imchcpgqum
+2018-12-03 15:47:58,046  INFO [main] Log:10 - Click on "Send" Button
+2018-12-03 15:47:58,272 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:47:58,314 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 15:47:58,314 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:47:58,366 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 15:47:58,366 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:47:58,428 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (473847fd0c79db0747d4615e7b51780c)Close
+2018-12-03 15:50:19,846 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (02c248dff3fb27c2ffcac63869c594a7)
+2018-12-03 15:50:19,866 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 15:50:27,439 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-03 15:50:27,440  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 15:50:27,929 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-03 15:50:29,175  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 15:50:29,900  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 15:50:30,025  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 15:50:32,553 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-03 15:50:32,554  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 15:50:33,790 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 15:50:33,796 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-03 15:50:33,797  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 15:50:34,665  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 15:50:34,971 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 15:50:49,907  INFO [main] Log:10 - Click on recipient - testAccount2 @testAcc02011488
+2018-12-03 15:50:50,098  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 15:50:50,346  INFO [main] Log:10 - Write message with text - igoxrqnacu
+2018-12-03 15:50:50,529  INFO [main] Log:10 - Click on "Send" Button
+2018-12-03 15:50:50,898 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:50:50,971 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 15:50:50,971 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 15:50:51,052  INFO [main] Log:10 - Click on "Close" button
+2018-12-03 15:51:01,094 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (02c248dff3fb27c2ffcac63869c594a7)Close
+2018-12-03 17:21:04,084 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (a24cbf4bf9d492ccd5dd09bc18d53ff8)
+2018-12-03 17:21:04,147 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-03 17:21:09,278 DEBUG [main] Log:26 - Create object pages.FirstPage@173ed316
+2018-12-03 17:21:09,278  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-03 17:21:09,629 DEBUG [main] Log:26 - Create object pages.LoginPage@7bba5817
+2018-12-03 17:21:10,769  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-03 17:21:11,326  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-03 17:21:11,439  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-03 17:21:13,758 DEBUG [main] Log:26 - Create object pages.TweetPage@2a8448fa
+2018-12-03 17:21:13,759  INFO [main] Log:10 - Click on "Messages" button
+2018-12-03 17:21:17,836 DEBUG [main] Log:26 - Open Messages page
+2018-12-03 17:21:17,840 DEBUG [main] Log:26 - Create object pages.MessagePage@15888343
+2018-12-03 17:21:17,840  INFO [main] Log:10 - Click on "New message" button
+2018-12-03 17:21:18,179  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-03 17:21:18,425 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-03 17:21:21,672  INFO [main] Log:10 - Click on recipient - testAccount2 @testAcc02011488
+2018-12-03 17:21:21,850  INFO [main] Log:10 - Click on "Next" button
+2018-12-03 17:21:22,189  INFO [main] Log:10 - Write message with text - unolszcoew
+2018-12-03 17:21:22,631  INFO [main] Log:10 - Click on "Send" Button
+2018-12-03 17:21:22,895 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 17:21:23,029 DEBUG [main] Log:26 - Get text from last message
+2018-12-03 17:21:23,029 DEBUG [main] Log:26 - Get count of all messages
+2018-12-03 17:21:23,104  INFO [main] Log:10 - Click on "Close" button
+2018-12-03 17:21:23,331 DEBUG [main] Log:26 - return to main tweet page
+2018-12-03 17:21:23,333 DEBUG [main] Log:26 - Create object pages.TweetPage@239105a8
+2018-12-03 17:21:23,399  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-03 17:21:23,667 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-03 17:21:23,828  INFO [main] Log:10 - Click on "Log out" item
+2018-12-03 17:21:23,950 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-03 17:21:28,855 DEBUG [main] Log:26 - Create object pages.FirstPage@27508c5d
+2018-12-03 17:21:28,855 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (a24cbf4bf9d492ccd5dd09bc18d53ff8)Close
+2018-12-04 08:49:37,081 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (b15508a20e1dcbbcbc045a3022853682)
+2018-12-04 08:49:37,584 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 08:49:41,949 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-04 08:49:41,949  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 08:49:42,648 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-04 08:49:44,388  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 08:49:45,375  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 08:49:45,480  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 08:49:49,968 DEBUG [main] Log:26 - Create object pages.TweetPage@2de56eb2
+2018-12-04 08:49:49,968  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 08:49:55,261 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 08:49:55,308 DEBUG [main] Log:26 - Create object pages.MessagePage@14fc5f04
+2018-12-04 08:49:55,309  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 08:49:55,702  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488 
+2018-12-04 08:49:56,307 DEBUG [main] Log:26 - Wait for list of recipient
+2018-12-04 08:49:57,021 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (b15508a20e1dcbbcbc045a3022853682)Close
+2018-12-04 08:58:15,543 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (7404bfeed224130ef2ae8b86362f71f0)
+2018-12-04 08:58:15,558 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 08:58:21,463 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-04 08:58:21,463  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 08:58:21,952 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-04 08:58:24,037 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (7404bfeed224130ef2ae8b86362f71f0)] -> class name: js-username-field]
+2018-12-04 08:58:24,082  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 08:58:24,727  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 08:58:24,856  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 08:58:29,012 DEBUG [main] Log:26 - Create object pages.TweetPage@5884a914
+2018-12-04 08:58:29,169  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 08:58:38,137 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 08:58:38,300  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 08:58:39,742 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 08:58:39,812 DEBUG [main] Log:26 - Create object pages.FirstPage@69ee81fc
+2018-12-04 08:58:41,272 DEBUG [main] Log:26 - Create object pages.FirstPage@7d322cad
+2018-12-04 08:58:41,274  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 08:58:41,404 DEBUG [main] Log:26 - Create object pages.LoginPage@e3b3b2f
+2018-12-04 08:58:42,578 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (7404bfeed224130ef2ae8b86362f71f0)] -> class name: js-username-field]
+2018-12-04 08:58:42,612  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 08:58:42,828  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 08:58:42,955  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 08:58:46,864 DEBUG [main] Log:26 - Create object pages.TweetPage@37911f88
+2018-12-04 08:58:46,874  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 08:58:47,057 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 08:58:47,153  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 08:58:47,283 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 08:58:49,124 DEBUG [main] Log:26 - Create object pages.FirstPage@52e7a6b2
+2018-12-04 08:58:49,140 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (7404bfeed224130ef2ae8b86362f71f0)Close
+2018-12-04 09:18:47,613 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (ec7fa4a7649d93b2362a1101fe689b3e)
+2018-12-04 09:18:47,666 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 09:18:52,773 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-04 09:18:52,773  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 09:18:53,275 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-04 09:18:54,854 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (ec7fa4a7649d93b2362a1101fe689b3e)] -> class name: js-username-field]
+2018-12-04 09:18:55,166  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 09:18:55,520  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 09:18:55,639  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 09:18:59,071 DEBUG [main] Log:26 - Create object pages.TweetPage@5884a914
+2018-12-04 09:18:59,072  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 09:19:04,936 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 09:19:04,984 DEBUG [main] Log:26 - Create object pages.MessagePage@7139992f
+2018-12-04 09:19:04,984  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 09:19:05,363  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 09:19:05,796 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 09:19:05,848  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 09:19:06,088  INFO [main] Log:10 - Write message with text - bevbocepuf
+2018-12-04 09:19:06,498  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 09:19:06,686 DEBUG [main] Log:26 - Get count of all messages
+2018-12-04 09:19:07,593 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 09:19:07,593 DEBUG [main] Log:26 - Get count of all messages
+2018-12-04 09:19:07,687  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 09:19:07,852 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 09:19:07,854 DEBUG [main] Log:26 - Create object pages.TweetPage@609bcfb6
+2018-12-04 09:19:07,874  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 09:19:08,201 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 09:19:08,339  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 09:19:08,505 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 09:19:09,633 DEBUG [main] Log:26 - Create object pages.FirstPage@4b5189ac
+2018-12-04 09:19:09,665 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (ec7fa4a7649d93b2362a1101fe689b3e)Close
+2018-12-04 09:28:54,614 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (64c951dbcbb3f9c29d5f4a201d72f521)
+2018-12-04 09:28:54,626 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 09:29:00,078 DEBUG [main] Log:26 - Create object pages.FirstPage@173ed316
+2018-12-04 09:29:00,078  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 09:29:00,535 DEBUG [main] Log:26 - Create object pages.LoginPage@7bba5817
+2018-12-04 09:29:02,086 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (64c951dbcbb3f9c29d5f4a201d72f521)] -> class name: js-username-field]
+2018-12-04 09:29:02,213  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 09:29:02,537  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 09:29:02,682  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 09:29:05,010 DEBUG [main] Log:26 - Create object pages.TweetPage@4d15107f
+2018-12-04 09:29:05,015  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 09:29:11,375 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 09:29:11,451 DEBUG [main] Log:26 - Create object pages.MessagePage@5340477f
+2018-12-04 09:29:11,452  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 09:29:11,671  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 09:29:11,901 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 09:29:11,953  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 09:29:12,122  INFO [main] Log:10 - Write message with text - yyepjitmun
+2018-12-04 09:29:12,330  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 09:29:12,530 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 09:29:13,046  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 09:29:13,464 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 09:29:13,465 DEBUG [main] Log:26 - Create object pages.TweetPage@3b5fad2d
+2018-12-04 09:29:13,490  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 09:29:13,936 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 09:29:14,211  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 09:29:14,412 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 09:29:15,645 DEBUG [main] Log:26 - Create object pages.FirstPage@5d43661b
+2018-12-04 09:29:15,695 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (64c951dbcbb3f9c29d5f4a201d72f521)Close
+2018-12-04 09:30:52,898 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (4573e49a66e9cbb2b3f52808961ff475)
+2018-12-04 09:30:52,911 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 09:30:59,363 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-04 09:30:59,364  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 09:30:59,537 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-04 09:31:01,088 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (4573e49a66e9cbb2b3f52808961ff475)] -> class name: js-username-field]
+2018-12-04 09:31:01,116  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 09:31:01,334  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 09:31:01,450  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 09:31:03,812 DEBUG [main] Log:26 - Create object pages.TweetPage@5884a914
+2018-12-04 09:31:03,813  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 09:31:09,764 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 09:31:09,791 DEBUG [main] Log:26 - Create object pages.MessagePage@7139992f
+2018-12-04 09:31:09,792  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 09:31:10,134  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 09:31:10,377 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 09:31:10,428  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 09:31:10,615  INFO [main] Log:10 - Write message with text - zeoaobscir
+2018-12-04 09:31:10,801  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 09:31:10,989 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 09:31:11,494 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 09:31:11,559  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 09:31:11,952 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 09:31:11,954 DEBUG [main] Log:26 - Create object pages.TweetPage@1890516e
+2018-12-04 09:31:11,984  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 09:31:12,683 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (4573e49a66e9cbb2b3f52808961ff475)Close
+2018-12-04 09:31:51,946 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (9c178d505f9b9dbc12b8570d37b779fd)
+2018-12-04 09:31:51,959 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 09:31:56,678 DEBUG [main] Log:26 - Create object pages.FirstPage@74ea2410
+2018-12-04 09:31:56,679  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 09:31:56,846 DEBUG [main] Log:26 - Create object pages.LoginPage@75437611
+2018-12-04 09:31:58,233 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (9c178d505f9b9dbc12b8570d37b779fd)] -> class name: js-username-field]
+2018-12-04 09:31:58,263  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 09:31:58,809  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 09:31:58,928  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 09:32:01,027 DEBUG [main] Log:26 - Create object pages.TweetPage@5884a914
+2018-12-04 09:32:01,027  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 09:32:04,040 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 09:32:04,044 DEBUG [main] Log:26 - Create object pages.MessagePage@7139992f
+2018-12-04 09:32:04,045  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 09:32:04,453  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 09:32:04,771 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 09:32:04,830  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 09:32:05,036  INFO [main] Log:10 - Write message with text - mfyhkjoexz
+2018-12-04 09:32:05,237  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 09:32:05,471 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 09:32:06,009 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 09:32:06,121  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 09:32:06,511 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 09:32:06,513 DEBUG [main] Log:26 - Create object pages.TweetPage@1890516e
+2018-12-04 09:32:06,564  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 09:32:06,857 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 09:32:07,065  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 09:32:07,214 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 09:32:08,434 DEBUG [main] Log:26 - Create object pages.FirstPage@28b46423
+2018-12-04 09:32:08,475 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (9c178d505f9b9dbc12b8570d37b779fd)Close
+2018-12-04 10:55:21,552 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (17cabfd2e348561a745f0f91afa1b8e6)
+2018-12-04 10:55:21,645 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 10:55:26,432 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 10:55:26,432  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 10:55:26,646 DEBUG [main] Log:26 - Create object pages.LoginPage@4b29d1d2
+2018-12-04 10:55:28,207 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (17cabfd2e348561a745f0f91afa1b8e6)] -> class name: js-username-field]
+2018-12-04 10:55:28,376  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 10:55:29,112  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 10:55:29,228  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 10:55:31,642 DEBUG [main] Log:26 - Create object pages.TweetPage@4b520ea8
+2018-12-04 10:55:31,643  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 10:55:38,205 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 10:55:38,285 DEBUG [main] Log:26 - Create object pages.MessagePage@5c7bfdc1
+2018-12-04 10:55:38,286  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 10:55:39,302  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 10:55:40,400 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 10:55:40,443  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 10:55:40,671  INFO [main] Log:10 - Write message with text - mapybkjpvh
+2018-12-04 10:55:41,051  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 10:55:41,223 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 10:55:41,865 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 10:55:42,017  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 10:55:42,443 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 10:55:42,445 DEBUG [main] Log:26 - Create object pages.TweetPage@6dd7b5a3
+2018-12-04 10:55:42,473  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 10:55:42,802 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 10:55:42,998  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 10:55:43,122 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 10:55:44,277 DEBUG [main] Log:26 - Create object pages.FirstPage@55c53a33
+2018-12-04 10:55:44,324 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (17cabfd2e348561a745f0f91afa1b8e6)Close
+2018-12-04 10:56:32,794 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (cbe7560e5e6883df054b5adb78f14d85)
+2018-12-04 10:56:32,809 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 10:57:16,364 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 10:57:16,364  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 10:57:26,599 DEBUG [main] Log:26 - Take error screenshot
+2018-12-04 10:57:26,599 DEBUG [main] Log:26 - Take error screenshot
+2018-12-04 10:57:26,599 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (cbe7560e5e6883df054b5adb78f14d85)Close
+2018-12-04 10:59:31,629 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (4123d3c75856e699d818d2ee79addf86)
+2018-12-04 10:59:31,661 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 11:00:15,860 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 11:00:15,860  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 11:00:26,052 DEBUG [main] Log:26 - Take error screenshot
+2018-12-04 11:00:26,052 DEBUG [main] Log:26 - Take error screenshot
+2018-12-04 11:00:26,068 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (4123d3c75856e699d818d2ee79addf86)Close
+2018-12-04 11:02:33,095 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (f82711b1ee6b1fcf55af5632c32bb9a0)
+2018-12-04 11:02:33,120 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 11:03:16,708 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 11:03:16,709  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 11:03:26,875 DEBUG [main] Log:26 - Take error screenshot
+2018-12-04 11:03:26,881 DEBUG [main] Log:26 - Take error screenshot
+2018-12-04 11:03:26,882 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (f82711b1ee6b1fcf55af5632c32bb9a0)Close
+2018-12-04 11:09:34,874 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (68c5a37f3a64b1c62b156065ffa4ff89)
+2018-12-04 11:09:34,909 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 11:10:18,222 DEBUG [main] Log:26 - Create object pages.FirstPage@3e8c3cb
+2018-12-04 11:10:18,223  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 11:10:28,340 DEBUG [main] Log:26 - Take error screenshot
+2018-12-04 11:10:28,356 DEBUG [main] Log:26 - Take error screenshot
+2018-12-04 11:10:28,356 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (68c5a37f3a64b1c62b156065ffa4ff89)Close
+2018-12-04 11:29:48,147 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (0033e7cb72c5a55b1c5b0b9ea08d2f34)
+2018-12-04 11:29:48,240 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 11:30:32,623 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 11:30:32,623  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 11:30:47,608 DEBUG [main] Log:26 - Take error screenshot
+2018-12-04 11:30:50,758 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (0033e7cb72c5a55b1c5b0b9ea08d2f34)Close
+2018-12-04 11:57:41,876 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (99a02bd6e635c6882a926df62a1b48c1)
+2018-12-04 11:57:41,964 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 11:58:27,627 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 11:58:27,628  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 11:58:38,259 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (99a02bd6e635c6882a926df62a1b48c1)Close
+2018-12-04 12:05:18,900 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (67b65e8e560ef28ca80e6c8fbdca468c)
+2018-12-04 12:05:18,961 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 12:05:18,982 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (67b65e8e560ef28ca80e6c8fbdca468c)Close
+2018-12-04 12:06:36,586 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (1c8ac6ff13ccc5d18878488dfe48ea1e)
+2018-12-04 12:06:36,602 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 12:06:36,615 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (1c8ac6ff13ccc5d18878488dfe48ea1e)Close
+2018-12-04 12:07:22,994 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (764850973e1aac75978120cc0021ff8d)
+2018-12-04 12:07:23,007 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 12:07:23,021 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (764850973e1aac75978120cc0021ff8d)Close
+2018-12-04 12:08:16,297 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (88b3e63f31295d33405213dc8dfcbae6)
+2018-12-04 12:08:16,315 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 12:20:31,624 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (88b3e63f31295d33405213dc8dfcbae6)Close
+2018-12-04 14:31:53,613 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (064b68fd2f74b2243b29c136c4ad16c9)
+2018-12-04 14:31:53,645 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 14:31:53,676 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (064b68fd2f74b2243b29c136c4ad16c9)Close
+2018-12-04 14:32:15,900 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (840a77e8c7cea67f816bdd8432fd6678)
+2018-12-04 14:32:15,932 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 14:33:07,189 DEBUG [main] Log:26 - Create object pages.FirstPage@54422e18
+2018-12-04 14:33:07,189  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 14:33:33,719 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (840a77e8c7cea67f816bdd8432fd6678)Close
+2018-12-04 14:51:33,334 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (bdb6ee173db08233cf809feb140be360)
+2018-12-04 14:51:33,450 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 14:51:33,466 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (bdb6ee173db08233cf809feb140be360)Close
+2018-12-04 14:58:02,460 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (c9ebbc8058796d6701331f9460af3b5b)
+2018-12-04 14:58:02,491 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 14:58:45,478 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 14:58:45,478  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 14:58:56,144 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (c9ebbc8058796d6701331f9460af3b5b)Close
+2018-12-04 15:02:27,624 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (ea11beefafeb1a3a00f9397247d721f2)
+2018-12-04 15:02:27,639 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:03:11,081 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:03:11,081  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:03:21,245 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 15:03:21,245 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (ea11beefafeb1a3a00f9397247d721f2)
+2018-12-04 15:03:21,963 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (ea11beefafeb1a3a00f9397247d721f2)Close
+2018-12-04 15:06:02,398 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (fc5c1c3932f2983cd19132479c256e95)
+2018-12-04 15:06:02,413 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:06:46,779 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:06:46,779  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:06:57,071 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 15:06:57,071 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (fc5c1c3932f2983cd19132479c256e95)
+2018-12-04 15:06:57,718 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (fc5c1c3932f2983cd19132479c256e95)Close
+2018-12-04 15:09:31,844 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (db53f0fd283a947075a6332c082fc0d4)
+2018-12-04 15:09:31,858 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:10:15,151 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:10:15,152  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:10:25,191 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 15:10:25,191 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (db53f0fd283a947075a6332c082fc0d4)
+2018-12-04 15:10:26,721 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (db53f0fd283a947075a6332c082fc0d4)Close
+2018-12-04 15:11:13,712 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (74b9ba2c4dc03389fbb9444a06f9970d)
+2018-12-04 15:11:13,734 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:11:13,750 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 15:11:13,750 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (74b9ba2c4dc03389fbb9444a06f9970d)
+2018-12-04 15:11:14,074 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (74b9ba2c4dc03389fbb9444a06f9970d)Close
+2018-12-04 15:16:41,270 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (9d35397a8ef7e31d4976fb0b453d6e19)
+2018-12-04 15:16:41,286 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:16:49,745 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:16:49,746  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:16:50,769 DEBUG [main] Log:26 - Create object pages.LoginPage@4b29d1d2
+2018-12-04 15:16:53,117 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (9d35397a8ef7e31d4976fb0b453d6e19)] -> class name: js-username-field]
+2018-12-04 15:16:53,271  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 15:16:54,689  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:16:54,785  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:17:08,372 DEBUG [main] Log:26 - Create object pages.TweetPage@4b520ea8
+2018-12-04 15:17:08,372  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:17:08,827 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 15:17:09,332 DEBUG [main] Log:26 - Create object pages.MessagePage@5c7bfdc1
+2018-12-04 15:17:09,332  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 15:17:09,725  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 15:17:10,493 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 15:17:10,554  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 15:17:10,862  INFO [main] Log:10 - Write message with text - tvtrfkqhmm
+2018-12-04 15:17:11,460  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 15:17:11,633 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:17:12,318 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:17:12,390  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 15:17:12,834 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 15:17:12,835 DEBUG [main] Log:26 - Create object pages.TweetPage@6dd7b5a3
+2018-12-04 15:17:12,853  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 15:17:13,349 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 15:17:13,349 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (9d35397a8ef7e31d4976fb0b453d6e19)
+2018-12-04 15:17:14,260 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (9d35397a8ef7e31d4976fb0b453d6e19)Close
+2018-12-04 15:18:40,445 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (4ca5171be981a6d9d588335ea651126c)
+2018-12-04 15:18:40,461 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:18:48,545 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:18:48,545  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:18:50,628 DEBUG [main] Log:26 - Create object pages.LoginPage@4b29d1d2
+2018-12-04 15:18:51,119 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (4ca5171be981a6d9d588335ea651126c)] -> class name: js-username-field]
+2018-12-04 15:18:51,184  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 15:18:51,725  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:18:51,865  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:19:00,634 DEBUG [main] Log:26 - Create object pages.TweetPage@4b520ea8
+2018-12-04 15:19:00,634  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:19:00,956 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 15:19:00,960 DEBUG [main] Log:26 - Create object pages.MessagePage@5c7bfdc1
+2018-12-04 15:19:00,961  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 15:19:01,291  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 15:19:01,571 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 15:19:01,622  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 15:19:01,778  INFO [main] Log:10 - Write message with text - wcdkurfocc
+2018-12-04 15:19:01,966  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 15:19:02,172 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:19:02,697 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:19:02,765  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 15:19:02,981 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 15:19:02,983 DEBUG [main] Log:26 - Create object pages.TweetPage@6dd7b5a3
+2018-12-04 15:19:03,020  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 15:19:03,334 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 15:19:03,400  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 15:19:03,618 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 15:19:05,455 DEBUG [main] Log:26 - Create object pages.FirstPage@55c53a33
+2018-12-04 15:19:05,469 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (4ca5171be981a6d9d588335ea651126c)Close
+2018-12-04 15:19:21,477 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (031577b21cc9dcbffe57b0fcf64ba2ba)
+2018-12-04 15:19:21,508 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:19:27,259 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:19:27,259  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:19:29,107 DEBUG [main] Log:26 - Create object pages.LoginPage@4b29d1d2
+2018-12-04 15:19:29,190 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (031577b21cc9dcbffe57b0fcf64ba2ba)] -> class name: js-username-field]
+2018-12-04 15:19:29,229  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 15:19:29,436  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:19:29,558  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:19:40,554 DEBUG [main] Log:26 - Create object pages.TweetPage@4b520ea8
+2018-12-04 15:19:40,573  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:19:41,637 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 15:19:41,738 DEBUG [main] Log:26 - Create object pages.MessagePage@5c7bfdc1
+2018-12-04 15:19:41,739  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 15:19:41,934  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 15:19:42,542 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 15:19:42,585  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 15:19:42,798  INFO [main] Log:10 - Write message with text - iznhyfrugn
+2018-12-04 15:19:43,167  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 15:19:43,344 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:19:43,951 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:19:44,025  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 15:19:44,500 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 15:19:44,501 DEBUG [main] Log:26 - Create object pages.TweetPage@6dd7b5a3
+2018-12-04 15:19:44,521  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 15:19:44,840 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 15:19:44,990  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 15:19:45,189 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 15:19:46,571 DEBUG [main] Log:26 - Create object pages.FirstPage@55c53a33
+2018-12-04 15:19:46,595 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (031577b21cc9dcbffe57b0fcf64ba2ba)Close
+2018-12-04 15:20:43,507 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (2e82ee2c902449f5a8c23ec38f200a96)
+2018-12-04 15:20:43,529 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:20:47,827 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:20:47,827  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:20:49,306 DEBUG [main] Log:26 - Create object pages.LoginPage@4b29d1d2
+2018-12-04 15:20:49,409 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (2e82ee2c902449f5a8c23ec38f200a96)] -> class name: js-username-field]
+2018-12-04 15:20:49,439  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 15:20:49,708  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:20:49,798  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:20:54,519 DEBUG [main] Log:26 - Create object pages.TweetPage@4b520ea8
+2018-12-04 15:20:54,519  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:21:04,739 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 15:21:04,739 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (2e82ee2c902449f5a8c23ec38f200a96)
+2018-12-04 15:21:05,275 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (2e82ee2c902449f5a8c23ec38f200a96)Close
+2018-12-04 15:25:30,769 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (fecf3eaf404435341200ddf4c234a61c)
+2018-12-04 15:25:30,785 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:25:35,206 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:25:35,206  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:25:36,984 DEBUG [main] Log:26 - Create object pages.LoginPage@4b29d1d2
+2018-12-04 15:25:37,103 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (fecf3eaf404435341200ddf4c234a61c)] -> class name: js-username-field]
+2018-12-04 15:25:37,162  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 15:25:37,400  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:25:37,520  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:25:42,041 DEBUG [main] Log:26 - Create object pages.TweetPage@4b520ea8
+2018-12-04 15:25:42,042  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:25:57,981 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 15:25:57,985 DEBUG [main] Log:26 - Create object pages.MessagePage@5c7bfdc1
+2018-12-04 15:25:57,986  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 15:25:58,343  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 15:25:58,589 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 15:25:58,628  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 15:25:58,822  INFO [main] Log:10 - Write message with text - xsziboqnns
+2018-12-04 15:25:59,025  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 15:25:59,231 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:25:59,833 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:25:59,892  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 15:26:00,098 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 15:26:00,099 DEBUG [main] Log:26 - Create object pages.TweetPage@6dd7b5a3
+2018-12-04 15:26:00,118  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 15:26:00,418 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 15:26:00,419 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (fecf3eaf404435341200ddf4c234a61c)
+2018-12-04 15:26:00,903 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (fecf3eaf404435341200ddf4c234a61c)Close
+2018-12-04 15:27:49,581 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (1d86232e35b7d48064434b673a38acc5)
+2018-12-04 15:27:49,597 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:27:55,239 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:27:55,239  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:27:55,472 DEBUG [main] Log:26 - Create object pages.LoginPage@4b29d1d2
+2018-12-04 15:27:56,721 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (1d86232e35b7d48064434b673a38acc5)] -> class name: js-username-field]
+2018-12-04 15:27:56,996  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 15:27:57,306  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:27:57,417  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:28:13,304 DEBUG [main] Log:26 - Create object pages.TweetPage@4b520ea8
+2018-12-04 15:28:13,305  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:28:13,660 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 15:28:13,664 DEBUG [main] Log:26 - Create object pages.MessagePage@5c7bfdc1
+2018-12-04 15:28:13,664  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 15:28:13,947  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 15:28:14,224 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 15:28:14,266  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 15:28:14,545  INFO [main] Log:10 - Write message with text - xnpixylldc
+2018-12-04 15:28:14,726  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 15:28:14,936 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:28:15,587 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:28:15,656  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 15:28:15,885 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 15:28:15,887 DEBUG [main] Log:26 - Create object pages.TweetPage@6dd7b5a3
+2018-12-04 15:28:15,923  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 15:28:16,197 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 15:28:16,197 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (1d86232e35b7d48064434b673a38acc5)
+2018-12-04 15:28:16,628 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (1d86232e35b7d48064434b673a38acc5)Close
+2018-12-04 15:29:50,926 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (aa7e5dabbec7d7b9c4ca100f81d448c9)
+2018-12-04 15:29:50,942 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:29:55,903 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:29:55,903  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:29:56,329 DEBUG [main] Log:26 - Create object pages.LoginPage@4b29d1d2
+2018-12-04 15:29:57,827 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (aa7e5dabbec7d7b9c4ca100f81d448c9)] -> class name: js-username-field]
+2018-12-04 15:29:57,856  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 15:29:58,089  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:29:58,207  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:30:07,992 DEBUG [main] Log:26 - Create object pages.TweetPage@4b520ea8
+2018-12-04 15:30:07,992  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:30:08,317 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 15:30:08,321 DEBUG [main] Log:26 - Create object pages.MessagePage@5c7bfdc1
+2018-12-04 15:30:08,321  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 15:30:08,584  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 15:30:08,827 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 15:30:08,872  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 15:30:09,094  INFO [main] Log:10 - Write message with text - ougnmkewrc
+2018-12-04 15:30:09,258  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 15:30:09,467 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:30:09,987 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:30:10,036  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 15:30:10,251 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 15:30:10,253 DEBUG [main] Log:26 - Create object pages.TweetPage@6dd7b5a3
+2018-12-04 15:30:10,302  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 15:30:10,701 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 15:30:10,819  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 15:30:11,002 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 15:30:12,569 DEBUG [main] Log:26 - Create object pages.FirstPage@658c5a19
+2018-12-04 15:30:12,569 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (aa7e5dabbec7d7b9c4ca100f81d448c9)Close
+2018-12-04 15:30:25,517 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (0d2ab08ca126747248d01d442d9dc50b)
+2018-12-04 15:30:25,548 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:30:30,839 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:30:30,839  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:30:30,986 DEBUG [main] Log:26 - Create object pages.LoginPage@4b29d1d2
+2018-12-04 15:30:32,251 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (0d2ab08ca126747248d01d442d9dc50b)] -> class name: js-username-field]
+2018-12-04 15:30:32,597  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 15:30:32,851  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:30:32,979  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:30:34,984 DEBUG [main] Log:26 - Create object pages.TweetPage@4b520ea8
+2018-12-04 15:30:34,987  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:30:37,022 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 15:30:37,026 DEBUG [main] Log:26 - Create object pages.MessagePage@5c7bfdc1
+2018-12-04 15:30:37,027  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 15:30:37,445  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 15:30:37,737 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 15:30:37,787  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 15:30:38,019  INFO [main] Log:10 - Write message with text - gkflhdtjdn
+2018-12-04 15:30:38,195  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 15:30:38,456 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:30:39,085 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:30:39,162  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 15:30:39,323 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 15:30:39,326 DEBUG [main] Log:26 - Create object pages.TweetPage@6dd7b5a3
+2018-12-04 15:30:39,398  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 15:30:39,746 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 15:30:39,842  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 15:30:40,009 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 15:30:41,386 DEBUG [main] Log:26 - Create object pages.FirstPage@658c5a19
+2018-12-04 15:30:41,389 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (0d2ab08ca126747248d01d442d9dc50b)Close
+2018-12-04 15:37:45,945 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (e1901846e821ae88d747d98425b8f110)
+2018-12-04 15:37:45,976 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:37:55,212 DEBUG [main] Log:26 - Create object pages.FirstPage@543295b0
+2018-12-04 15:37:55,213  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:38:00,501 DEBUG [main] Log:26 - Create object pages.LoginPage@4b29d1d2
+2018-12-04 15:38:04,460 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (e1901846e821ae88d747d98425b8f110)] -> class name: js-username-field]
+2018-12-04 15:38:04,547  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 15:38:04,803  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:38:04,933  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:38:17,651 DEBUG [main] Log:26 - Create object pages.TweetPage@4b520ea8
+2018-12-04 15:38:17,651  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:38:17,954 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 15:38:17,958 DEBUG [main] Log:26 - Create object pages.MessagePage@5c7bfdc1
+2018-12-04 15:38:17,958  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 15:38:18,229  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 15:38:18,496 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 15:38:18,550  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 15:38:18,742  INFO [main] Log:10 - Write message with text - fypidpljjp
+2018-12-04 15:38:18,904  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 15:38:19,097 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:38:19,664 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 15:38:19,745  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 15:38:19,956 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 15:38:19,958 DEBUG [main] Log:26 - Create object pages.TweetPage@6dd7b5a3
+2018-12-04 15:38:20,060  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 15:38:20,387 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 15:38:20,502  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 15:38:20,743 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 15:38:23,295 DEBUG [main] Log:26 - Create object pages.FirstPage@658c5a19
+2018-12-04 15:38:23,311 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (e1901846e821ae88d747d98425b8f110)Close
+2018-12-04 15:44:12,164 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (a7d47c2f526079028c7426006d994b6d)
+2018-12-04 15:44:12,196 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:44:18,981 DEBUG [main] Log:26 - Create object pages.FirstPage@53fe15ff
+2018-12-04 15:44:18,982  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:44:20,256 DEBUG [main] Log:26 - Create object pages.LoginPage@1cf6d1be
+2018-12-04 15:44:20,684 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (a7d47c2f526079028c7426006d994b6d)] -> class name: js-username-field]
+2018-12-04 15:44:20,773  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 15:44:20,997  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:44:21,152  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:44:34,575 DEBUG [main] Log:26 - Create object pages.TweetPage@33ecda92
+2018-12-04 15:44:34,598 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (a7d47c2f526079028c7426006d994b6d)Close
+2018-12-04 15:45:55,461 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (2b8e28bc77a971faa13b409deabfbad9)
+2018-12-04 15:45:55,477 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:46:00,372 DEBUG [main] Log:26 - Create object pages.FirstPage@76a4ebf2
+2018-12-04 15:46:00,372  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:46:01,957 DEBUG [main] Log:26 - Create object pages.LoginPage@7161d8d1
+2018-12-04 15:46:02,060 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (2b8e28bc77a971faa13b409deabfbad9)] -> class name: js-username-field]
+2018-12-04 15:46:02,102  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 15:46:02,300  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:46:02,399  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:46:08,353 DEBUG [main] Log:26 - Create object pages.TweetPage@2dfaea86
+2018-12-04 15:46:08,357 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (2b8e28bc77a971faa13b409deabfbad9)Close
+2018-12-04 15:47:21,753 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (6744cd88f55702d267bc263ed4dad2e3)
+2018-12-04 15:47:21,769 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:47:28,792 DEBUG [main] Log:26 - Create object pages.FirstPage@53fe15ff
+2018-12-04 15:47:28,792  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:47:31,465 DEBUG [main] Log:26 - Create object pages.LoginPage@1cf6d1be
+2018-12-04 15:47:31,575 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (6744cd88f55702d267bc263ed4dad2e3)] -> class name: js-username-field]
+2018-12-04 15:47:31,621  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 15:47:31,875  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:47:31,985  INFO [main] Log:10 - Click on Log in button on login page
+2018-12-04 15:47:34,441 DEBUG [main] Log:26 - Create object pages.TweetPage@33ecda92
+2018-12-04 15:47:34,442  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:47:44,613 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (6744cd88f55702d267bc263ed4dad2e3)Close
+2018-12-04 15:49:07,861 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (f0e0929b6df3b4924b0e9f31e2f7bff2)
+2018-12-04 15:49:07,876 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 15:49:15,887 DEBUG [main] Log:26 - Create object pages.FirstPage@53fe15ff
+2018-12-04 15:49:15,888  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 15:49:16,032 DEBUG [main] Log:26 - Create object pages.LoginPage@1cf6d1be
+2018-12-04 15:49:17,790 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (f0e0929b6df3b4924b0e9f31e2f7bff2)] -> class name: js-username-field]
+2018-12-04 15:49:17,822  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 15:49:18,306  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 15:49:18,414  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 15:49:27,603 DEBUG [main] Log:26 - Create object pages.TweetPage@33ecda92
+2018-12-04 15:49:27,603  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 15:49:27,883 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 15:49:27,887 DEBUG [main] Log:26 - Create object pages.MessagePage@34bde49d
+2018-12-04 15:49:27,890 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (f0e0929b6df3b4924b0e9f31e2f7bff2)Close
+2018-12-04 16:00:31,224 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (07bb39d042c422fa4cb024e3ed06fe8f)
+2018-12-04 16:00:31,237 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:00:36,795 DEBUG [main] Log:26 - Create object pages.FirstPage@7d0b7e3c
+2018-12-04 16:00:36,796  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:00:37,308 DEBUG [main] Log:26 - Create object pages.LoginPage@6bbe85a8
+2018-12-04 16:00:39,357 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (07bb39d042c422fa4cb024e3ed06fe8f)] -> class name: js-username-field]
+2018-12-04 16:00:39,385  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 16:00:39,715  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:00:39,899  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:00:42,682 DEBUG [main] Log:26 - Create object pages.TweetPage@333d4a8c
+2018-12-04 16:00:42,682  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:00:49,334 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:00:49,572 DEBUG [main] Log:26 - Create object pages.MessagePage@20b2475a
+2018-12-04 16:00:49,573  INFO [main] Log:10 - Click on "Sender"
+2018-12-04 16:00:59,757 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 16:00:59,757 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (07bb39d042c422fa4cb024e3ed06fe8f)
+2018-12-04 16:01:00,264 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (07bb39d042c422fa4cb024e3ed06fe8f)Close
+2018-12-04 16:03:32,139 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (4a0ea5defc432a1e8a6be5f240adff15)
+2018-12-04 16:03:32,154 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:03:37,255 DEBUG [main] Log:26 - Create object pages.FirstPage@4b741d6d
+2018-12-04 16:03:37,256  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:03:37,707 DEBUG [main] Log:26 - Create object pages.LoginPage@4be29ed9
+2018-12-04 16:03:39,205 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (4a0ea5defc432a1e8a6be5f240adff15)] -> class name: js-username-field]
+2018-12-04 16:03:39,445  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 16:03:39,786  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:03:39,956  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:03:42,360 DEBUG [main] Log:26 - Create object pages.TweetPage@dc7df28
+2018-12-04 16:03:42,361  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:03:52,048 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:03:52,114 DEBUG [main] Log:26 - Create object pages.MessagePage@6f15d60e
+2018-12-04 16:03:52,114  INFO [main] Log:10 - Click on "Sender"
+2018-12-04 16:03:52,506 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (4a0ea5defc432a1e8a6be5f240adff15)Close
+2018-12-04 16:06:59,420 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (0e388dc18d0d0b6dcee53eeedb42bed3)
+2018-12-04 16:06:59,432 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:07:08,647 DEBUG [main] Log:26 - Create object pages.FirstPage@4b741d6d
+2018-12-04 16:07:08,648  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:07:08,800 DEBUG [main] Log:26 - Create object pages.LoginPage@4be29ed9
+2018-12-04 16:07:11,521 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (0e388dc18d0d0b6dcee53eeedb42bed3)] -> class name: js-username-field]
+2018-12-04 16:07:11,555  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 16:07:11,845  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:07:11,956  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:07:21,607 DEBUG [main] Log:26 - Create object pages.TweetPage@dc7df28
+2018-12-04 16:07:21,632  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:07:21,975 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:07:21,979 DEBUG [main] Log:26 - Create object pages.MessagePage@6f15d60e
+2018-12-04 16:07:21,980  INFO [main] Log:10 - Click on "Sender"
+2018-12-04 16:07:22,489 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:07:23,129 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:07:23,232  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:07:23,677 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:07:23,679 DEBUG [main] Log:26 - Create object pages.TweetPage@448c8166
+2018-12-04 16:07:23,748  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:07:24,106 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 16:07:24,310  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 16:07:24,497 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 16:07:25,911 DEBUG [main] Log:26 - Create object pages.FirstPage@1b410b60
+2018-12-04 16:07:25,935 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (0e388dc18d0d0b6dcee53eeedb42bed3)Close
+2018-12-04 16:22:29,571 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (863a91053bdca67cfdacf89c820d4269)
+2018-12-04 16:22:29,649 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:22:36,496 DEBUG [main] Log:26 - Create object pages.FirstPage@3e8c3cb
+2018-12-04 16:22:36,497  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:22:37,137 DEBUG [main] Log:26 - Create object pages.LoginPage@4a83a74a
+2018-12-04 16:22:39,464 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (863a91053bdca67cfdacf89c820d4269)] -> class name: js-username-field]
+2018-12-04 16:22:39,562  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 16:22:39,852  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:22:39,984  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:22:54,572 DEBUG [main] Log:26 - Create object pages.TweetPage@97e93f1
+2018-12-04 16:22:54,572  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:22:54,967 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:22:55,016 DEBUG [main] Log:26 - Create object pages.MessagePage@475c9c31
+2018-12-04 16:22:55,018  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 16:22:55,394  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 16:22:55,753 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 16:22:55,799  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 16:22:55,998  INFO [main] Log:10 - Write message with text - hi testAccount2
+2018-12-04 16:22:56,409  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 16:22:56,694 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:22:57,292 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:22:57,454  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:22:57,750 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:22:57,752 DEBUG [main] Log:26 - Create object pages.TweetPage@205d38da
+2018-12-04 16:22:57,815  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:22:58,379 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 16:22:58,379 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (863a91053bdca67cfdacf89c820d4269)
+2018-12-04 16:22:59,358 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (863a91053bdca67cfdacf89c820d4269)Close
+2018-12-04 16:23:08,577 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (316ba47825410b251c2f661a97b02e97)
+2018-12-04 16:23:08,593 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:23:08,593 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 16:23:08,593 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (316ba47825410b251c2f661a97b02e97)
+2018-12-04 16:23:09,845 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (316ba47825410b251c2f661a97b02e97)Close
+2018-12-04 16:24:23,955 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (36771356a266f5f7a27951de302d796d)
+2018-12-04 16:24:23,971 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:24:30,924 DEBUG [main] Log:26 - Create object pages.FirstPage@3e8c3cb
+2018-12-04 16:24:30,924  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:24:31,427 DEBUG [main] Log:26 - Create object pages.LoginPage@4a83a74a
+2018-12-04 16:24:32,590 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (36771356a266f5f7a27951de302d796d)] -> class name: js-username-field]
+2018-12-04 16:24:32,939  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 16:24:33,596  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:24:33,714  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:24:38,232 DEBUG [main] Log:26 - Create object pages.TweetPage@97e93f1
+2018-12-04 16:24:38,235  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:24:46,693 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:24:46,771 DEBUG [main] Log:26 - Create object pages.MessagePage@475c9c31
+2018-12-04 16:24:46,772  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 16:24:47,226  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 16:24:47,760 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 16:24:47,904  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 16:24:48,121  INFO [main] Log:10 - Write message with text - hi testAccount2
+2018-12-04 16:24:48,495  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 16:24:48,703 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:24:49,322 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:24:49,404  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:24:49,748 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:24:49,749 DEBUG [main] Log:26 - Create object pages.TweetPage@205d38da
+2018-12-04 16:24:49,872  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:24:50,324 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 16:24:50,523  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 16:24:50,668 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 16:24:52,271 DEBUG [main] Log:26 - Create object pages.FirstPage@2b9ed6da
+2018-12-04 16:24:52,318 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (36771356a266f5f7a27951de302d796d)Close
+2018-12-04 16:24:58,601 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (4549c9c3521b56049c7cc180e3235a3d)
+2018-12-04 16:24:58,605 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:24:58,737 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 16:24:58,738 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (4549c9c3521b56049c7cc180e3235a3d)
+2018-12-04 16:25:01,186 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (4549c9c3521b56049c7cc180e3235a3d)Close
+2018-12-04 16:26:55,345 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (bba08bb8a4a90fa032d8bead2e4484d8)
+2018-12-04 16:26:55,359 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:27:05,425 DEBUG [main] Log:26 - Create object pages.FirstPage@3e8c3cb
+2018-12-04 16:27:05,426  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:27:06,823 DEBUG [main] Log:26 - Create object pages.LoginPage@4a83a74a
+2018-12-04 16:27:07,221 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (bba08bb8a4a90fa032d8bead2e4484d8)] -> class name: js-username-field]
+2018-12-04 16:27:07,293  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 16:27:07,566  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:27:07,672  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:27:18,522 DEBUG [main] Log:26 - Create object pages.TweetPage@97e93f1
+2018-12-04 16:27:18,522  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:27:19,210 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:27:19,213 DEBUG [main] Log:26 - Create object pages.MessagePage@475c9c31
+2018-12-04 16:27:19,214  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 16:27:19,886  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 16:27:20,372 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 16:27:20,428  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 16:27:20,664  INFO [main] Log:10 - Write message with text - hi testAccount2
+2018-12-04 16:27:21,289  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 16:27:21,488 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:27:21,993 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:27:22,082  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:27:22,512 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:27:22,514 DEBUG [main] Log:26 - Create object pages.TweetPage@205d38da
+2018-12-04 16:27:22,576  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:27:23,091 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 16:27:23,288  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 16:27:23,426 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 16:27:24,689 DEBUG [main] Log:26 - Create object pages.FirstPage@2b9ed6da
+2018-12-04 16:27:24,719 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (bba08bb8a4a90fa032d8bead2e4484d8)Close
+2018-12-04 16:27:29,898 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (3e11e32e8e38f0908346d57d728a9ddc)
+2018-12-04 16:27:29,906 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:27:33,939 DEBUG [main] Log:26 - Create object pages.FirstPage@45a37759
+2018-12-04 16:27:33,940  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:27:35,606 DEBUG [main] Log:26 - Create object pages.LoginPage@73d983ea
+2018-12-04 16:27:35,666 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (3e11e32e8e38f0908346d57d728a9ddc)] -> class name: js-username-field]
+2018-12-04 16:27:35,689  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 16:27:35,887  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:27:35,991  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:27:41,940 DEBUG [main] Log:26 - Create object pages.TweetPage@1e097d59
+2018-12-04 16:27:41,940  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:27:42,266 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:27:42,267 DEBUG [main] Log:26 - Create object pages.MessagePage@524f3b3a
+2018-12-04 16:27:42,268  INFO [main] Log:10 - Click on "Sender"
+2018-12-04 16:27:42,680 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:27:43,036 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:27:43,156  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:27:43,367 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:27:43,371 DEBUG [main] Log:26 - Create object pages.TweetPage@6bca7e0d
+2018-12-04 16:27:43,515  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:27:43,880 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 16:27:44,077  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 16:27:44,259 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 16:27:45,600 DEBUG [main] Log:26 - Create object pages.FirstPage@33fe57a9
+2018-12-04 16:27:45,601 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (3e11e32e8e38f0908346d57d728a9ddc)Close
+2018-12-04 16:30:26,271 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (15500f8d8f51ba1d060e17f7287e682f)
+2018-12-04 16:30:26,287 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:30:37,477 DEBUG [main] Log:26 - Create object pages.FirstPage@3e8c3cb
+2018-12-04 16:30:37,477  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:30:37,712 DEBUG [main] Log:26 - Create object pages.LoginPage@4a83a74a
+2018-12-04 16:30:38,987 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (15500f8d8f51ba1d060e17f7287e682f)] -> class name: js-username-field]
+2018-12-04 16:30:39,292  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 16:30:39,536  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:30:39,649  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:30:41,907 DEBUG [main] Log:26 - Create object pages.TweetPage@97e93f1
+2018-12-04 16:30:41,908  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:30:47,118 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:30:47,152 DEBUG [main] Log:26 - Create object pages.MessagePage@475c9c31
+2018-12-04 16:30:47,152  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 16:30:47,541  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 16:30:47,943 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 16:30:47,988  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 16:30:48,155  INFO [main] Log:10 - Write message with text - hi testAccount2
+2018-12-04 16:30:48,363  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 16:30:48,589 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:30:49,252 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:30:49,419 DEBUG [main] Log:26 - HighLight "Close" button
+2018-12-04 16:30:49,478  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:30:49,762 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:30:49,764 DEBUG [main] Log:26 - Create object pages.TweetPage@2a7ed1f
+2018-12-04 16:30:49,870  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:30:50,137 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 16:30:50,218  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 16:30:50,426 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 16:30:51,576 DEBUG [main] Log:26 - Create object pages.FirstPage@398dada8
+2018-12-04 16:30:51,647 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (15500f8d8f51ba1d060e17f7287e682f)Close
+2018-12-04 16:30:56,371 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (ee5d6b99ffbc5e535dab3c37190becbb)
+2018-12-04 16:30:56,387 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:31:00,740 DEBUG [main] Log:26 - Create object pages.FirstPage@71e9ebae
+2018-12-04 16:31:00,741  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:31:01,136 DEBUG [main] Log:26 - Create object pages.LoginPage@1f53a5dc
+2018-12-04 16:31:02,736 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (ee5d6b99ffbc5e535dab3c37190becbb)] -> class name: js-username-field]
+2018-12-04 16:31:02,767  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 16:31:02,988  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:31:03,116  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:31:06,413 DEBUG [main] Log:26 - Create object pages.TweetPage@76a2ddf3
+2018-12-04 16:31:06,414  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:31:08,472 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:31:08,473 DEBUG [main] Log:26 - Create object pages.MessagePage@53f6fd09
+2018-12-04 16:31:08,474  INFO [main] Log:10 - Click on "Sender"
+2018-12-04 16:31:09,205 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:31:09,967 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:31:10,015 DEBUG [main] Log:26 - HighLight "Close" button
+2018-12-04 16:31:10,110  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:31:10,824 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:31:10,826 DEBUG [main] Log:26 - Create object pages.TweetPage@40238dd0
+2018-12-04 16:31:10,878  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:31:11,779 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 16:31:11,896  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 16:31:12,042 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 16:31:13,994 DEBUG [main] Log:26 - Create object pages.FirstPage@2a898881
+2018-12-04 16:31:13,995 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (ee5d6b99ffbc5e535dab3c37190becbb)Close
+2018-12-04 16:33:20,757 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (391c36ec487944c928d86832e5f3b324)
+2018-12-04 16:33:20,773 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:33:27,915 DEBUG [main] Log:26 - Create object pages.FirstPage@3e8c3cb
+2018-12-04 16:33:27,915  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:33:28,567 DEBUG [main] Log:26 - Create object pages.LoginPage@4a83a74a
+2018-12-04 16:33:30,543 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (391c36ec487944c928d86832e5f3b324)] -> class name: js-username-field]
+2018-12-04 16:33:30,625  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 16:33:30,841  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:33:30,953  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:33:42,810 DEBUG [main] Log:26 - Create object pages.TweetPage@97e93f1
+2018-12-04 16:33:42,811  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:33:43,136 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:33:43,140 DEBUG [main] Log:26 - Create object pages.MessagePage@475c9c31
+2018-12-04 16:33:43,141  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 16:33:43,451  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 16:33:43,741 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 16:33:43,792  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 16:33:43,978  INFO [main] Log:10 - Write message with text - hi testAccount2d
+2018-12-04 16:33:44,197  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 16:33:44,387 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:33:44,906 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:33:44,961 DEBUG [main] Log:26 - HighLight "Close" button
+2018-12-04 16:33:45,046  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:33:45,290 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:33:45,292 DEBUG [main] Log:26 - Create object pages.TweetPage@2a7ed1f
+2018-12-04 16:33:45,374  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:33:45,716 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 16:33:45,781  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 16:33:45,950 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 16:33:47,414 DEBUG [main] Log:26 - Create object pages.FirstPage@398dada8
+2018-12-04 16:33:47,510 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (391c36ec487944c928d86832e5f3b324)Close
+2018-12-04 16:33:51,881 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (158a577ab9c752123159588a3de4cea1)
+2018-12-04 16:33:51,897 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:33:58,666 DEBUG [main] Log:26 - Create object pages.FirstPage@71e9ebae
+2018-12-04 16:33:58,667  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:34:00,473 DEBUG [main] Log:26 - Create object pages.LoginPage@1f53a5dc
+2018-12-04 16:34:00,542 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (158a577ab9c752123159588a3de4cea1)] -> class name: js-username-field]
+2018-12-04 16:34:00,570  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 16:34:00,763  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:34:00,860  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:34:18,413 DEBUG [main] Log:26 - Create object pages.TweetPage@76a2ddf3
+2018-12-04 16:34:18,413  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:34:18,720 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:34:18,721 DEBUG [main] Log:26 - Create object pages.MessagePage@53f6fd09
+2018-12-04 16:34:18,722  INFO [main] Log:10 - Click on "Sender"
+2018-12-04 16:34:19,179 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:34:19,690 DEBUG [main] Log:26 - HighLight "Close" button
+2018-12-04 16:34:19,808  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:34:19,964 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:34:19,966 DEBUG [main] Log:26 - Create object pages.TweetPage@2ea6e30c
+2018-12-04 16:34:20,041  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:34:20,353 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 16:34:20,432  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 16:34:20,638 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 16:34:22,240 DEBUG [main] Log:26 - Create object pages.FirstPage@2f40e5db
+2018-12-04 16:34:22,240 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (158a577ab9c752123159588a3de4cea1)Close
+2018-12-04 16:51:46,607 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (9acc6be12825452528e70f7255a5d256)
+2018-12-04 16:51:46,670 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:52:03,811 DEBUG [main] Log:26 - Create object pages.FirstPage@3e8c3cb
+2018-12-04 16:52:03,811  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:52:09,863 DEBUG [main] Log:26 - Create object pages.LoginPage@4a83a74a
+2018-12-04 16:52:15,470 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (9acc6be12825452528e70f7255a5d256)] -> class name: js-username-field]
+2018-12-04 16:52:16,741  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 16:52:18,481  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:52:18,763  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:52:25,362 DEBUG [main] Log:26 - Create object pages.TweetPage@97e93f1
+2018-12-04 16:52:25,363  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:52:37,726 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:52:37,786 DEBUG [main] Log:26 - Create object pages.MessagePage@475c9c31
+2018-12-04 16:52:37,787  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 16:52:39,516  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 16:52:40,075 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 16:52:40,125  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 16:52:40,559  INFO [main] Log:10 - Write message with text - hi testAccount2d
+2018-12-04 16:52:41,006  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 16:52:41,315 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:52:42,243 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:52:42,340 DEBUG [main] Log:26 - HighLight "Close" button
+2018-12-04 16:52:42,439  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:52:42,913 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:52:42,915 DEBUG [main] Log:26 - Create object pages.TweetPage@2a7ed1f
+2018-12-04 16:52:42,981  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:52:45,959 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 16:52:45,959 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (9acc6be12825452528e70f7255a5d256)
+2018-12-04 16:52:48,331 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (9acc6be12825452528e70f7255a5d256)Close
+2018-12-04 16:53:00,582 DEBUG [main] Log:26 - Create new WebDriver -ChromeDriver: chrome on XP (1dc4b1486498228f401d32b0b91ab685)
+2018-12-04 16:53:00,597 DEBUG [main] Log:26 - SetUp WebDriver
+2018-12-04 16:53:08,555 DEBUG [main] Log:26 - Create object pages.FirstPage@7922d892
+2018-12-04 16:53:08,555  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 16:53:08,692 DEBUG [main] Log:26 - Create object pages.LoginPage@2e48362c
+2018-12-04 16:53:10,381 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (1dc4b1486498228f401d32b0b91ab685)] -> class name: js-username-field]
+2018-12-04 16:53:10,409  INFO [main] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-04 16:53:10,624  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 16:53:10,738  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 16:53:26,534 DEBUG [main] Log:26 - Create object pages.TweetPage@34c01041
+2018-12-04 16:53:26,534  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 16:53:26,838 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 16:53:26,840 DEBUG [main] Log:26 - Create object pages.MessagePage@64c63c79
+2018-12-04 16:53:26,840  INFO [main] Log:10 - Click on "Sender"
+2018-12-04 16:53:28,038 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 16:53:28,572 DEBUG [main] Log:26 - HighLight "Close" button
+2018-12-04 16:53:28,673  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 16:53:28,927 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 16:53:28,930 DEBUG [main] Log:26 - Create object pages.TweetPage@16ce702d
+2018-12-04 16:53:28,984  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 16:53:29,531 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 16:53:29,936  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 16:53:30,068 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 16:53:31,540 DEBUG [main] Log:26 - Create object pages.FirstPage@5674e1f2
+2018-12-04 16:53:31,542 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (1dc4b1486498228f401d32b0b91ab685)Close
+2018-12-04 19:59:22,479 DEBUG [main] Log:26 - Create object pages.FirstPage@72e5a8e
+2018-12-04 19:59:22,699  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 19:59:23,645 DEBUG [main] Log:26 - Create object pages.LoginPage@5f049ea1
+2018-12-04 19:59:25,610 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (1f29f21b81f2259154518a9eae91c72c)] -> class name: js-username-field]
+2018-12-04 19:59:25,642  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 19:59:26,622  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 19:59:26,812  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 19:59:29,217 DEBUG [main] Log:26 - Create object pages.TweetPage@821330f
+2018-12-04 19:59:29,386  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 19:59:30,991 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 19:59:34,402  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 19:59:37,152 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 19:59:37,217 DEBUG [main] Log:26 - Create object pages.FirstPage@7975d1d8
+2018-12-04 19:59:37,220 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (1f29f21b81f2259154518a9eae91c72c)Close
+2018-12-04 20:06:06,006 DEBUG [main] Log:26 - Create object pages.FirstPage@72e5a8e
+2018-12-04 20:06:06,047  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 20:06:06,308 DEBUG [main] Log:26 - Create object pages.LoginPage@5f049ea1
+2018-12-04 20:06:07,998 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (d8711323b9a0f0d940e33183d3be1b37)] -> class name: js-username-field]
+2018-12-04 20:06:08,053  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 20:06:08,495  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 20:06:08,658  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 20:06:12,109 DEBUG [main] Log:26 - Create object pages.TweetPage@821330f
+2018-12-04 20:06:14,526  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 20:06:18,020 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 20:06:18,536  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 20:06:19,886 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 20:06:19,972 DEBUG [main] Log:26 - Create object pages.FirstPage@7975d1d8
+2018-12-04 20:06:20,022 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (d8711323b9a0f0d940e33183d3be1b37)Close
+2018-12-04 20:14:40,075 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 20:17:54,800 DEBUG [main] Log:26 - Create object pages.FirstPage@53aac487
+2018-12-04 20:17:54,800  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 20:17:55,794 DEBUG [main] Log:26 - Create object pages.LoginPage@5afa3c9
+2018-12-04 20:17:56,171 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (7ccb0f6a0656a58a4e7e4eb5df2f8bee)] -> class name: js-username-field]
+2018-12-04 20:17:56,204  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 20:17:56,407  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 20:17:56,509  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 20:18:03,385 DEBUG [main] Log:26 - Create object pages.TweetPage@5db6b9cd
+2018-12-04 20:18:03,386  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 20:18:03,695 DEBUG [main] Log:26 - Open Messages page
+2018-12-04 20:18:03,699 DEBUG [main] Log:26 - Create object pages.MessagePage@6933b6c6
+2018-12-04 20:18:03,700  INFO [main] Log:10 - Click on "New message" button
+2018-12-04 20:18:04,000  INFO [main] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-04 20:18:04,306 DEBUG [main] Log:26 - Wait for "Next" button will be enable
+2018-12-04 20:18:04,348  INFO [main] Log:10 - Click on "Next" button
+2018-12-04 20:18:04,606  INFO [main] Log:10 - Write message with text - Optional
+2018-12-04 20:18:04,837  INFO [main] Log:10 - Click on "Send" Button
+2018-12-04 20:18:05,067 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 20:18:05,866 DEBUG [main] Log:26 - Get text from last message
+2018-12-04 20:18:05,960 DEBUG [main] Log:26 - HighLight "Close" button
+2018-12-04 20:18:06,171  INFO [main] Log:10 - Click on "Close" button
+2018-12-04 20:18:06,305 DEBUG [main] Log:26 - return to main tweet page
+2018-12-04 20:18:06,307 DEBUG [main] Log:26 - Create object pages.TweetPage@352ff4da
+2018-12-04 20:18:06,362  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 20:18:06,680 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 20:18:06,827  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 20:18:06,992 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 20:18:07,977 DEBUG [main] Log:26 - Create object pages.FirstPage@2a225dd7
+2018-12-04 20:18:07,977 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (7ccb0f6a0656a58a4e7e4eb5df2f8bee)Close
+2018-12-04 20:18:35,060 DEBUG [main] Log:26 - Create object pages.FirstPage@53aac487
+2018-12-04 20:18:35,061  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 20:18:35,440 DEBUG [main] Log:26 - Create object pages.LoginPage@5afa3c9
+2018-12-04 20:18:36,622 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (cc11800bfb47496ccfa8c3cf791fb7da)] -> class name: js-username-field]
+2018-12-04 20:18:36,644  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 20:18:36,842  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 20:18:36,956  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 20:18:38,235 DEBUG [main] Log:26 - Create object pages.TweetPage@5db6b9cd
+2018-12-04 20:18:38,236  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 20:18:48,549 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 20:18:48,549 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 20:18:48,549 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (cc11800bfb47496ccfa8c3cf791fb7da)Close
+2018-12-04 20:20:53,365 DEBUG [main] Log:26 - Create object pages.FirstPage@53aac487
+2018-12-04 20:20:53,369  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 20:20:53,502 DEBUG [main] Log:26 - Create object pages.LoginPage@5afa3c9
+2018-12-04 20:20:54,549 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (5b027c16cbfef1057880937bb1f551ac)] -> class name: js-username-field]
+2018-12-04 20:20:54,588  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 20:20:55,078  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 20:20:55,190  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 20:20:56,531 DEBUG [main] Log:26 - Create object pages.TweetPage@5db6b9cd
+2018-12-04 20:20:56,531  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 20:21:06,607 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 20:21:09,541 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (faff4a936cc3c74f30841e08d0af76ba)
+2018-12-04 20:21:10,341 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (5b027c16cbfef1057880937bb1f551ac)Close
+2018-12-04 20:47:33,415 DEBUG [main] Log:26 - Create object pages.FirstPage@53aac487
+2018-12-04 20:47:33,415  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 20:47:33,852 DEBUG [main] Log:26 - Create object pages.LoginPage@5afa3c9
+2018-12-04 20:47:35,253 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (afa767dac40535c1be3a1443acc8ede6)] -> class name: js-username-field]
+2018-12-04 20:47:35,288  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 20:47:35,498  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 20:47:35,636  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 20:47:36,432 DEBUG [main] Log:26 - Create object pages.TweetPage@5db6b9cd
+2018-12-04 20:47:36,433  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 20:47:46,809 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 20:47:46,809 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 20:47:46,809 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (afa767dac40535c1be3a1443acc8ede6)Close
+2018-12-04 20:56:10,784 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (052dc5c012c6dd00a20ad406c24c666a)
+2018-12-04 20:56:10,784 DEBUG [main] Log:26 - Create object pages.FirstPage@7161d8d1
+2018-12-04 20:56:10,784  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 20:56:11,235 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (052dc5c012c6dd00a20ad406c24c666a)
+2018-12-04 20:56:11,236 DEBUG [main] Log:26 - Create object pages.LoginPage@5afa3c9
+2018-12-04 20:56:12,263 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (052dc5c012c6dd00a20ad406c24c666a)] -> class name: js-username-field]
+2018-12-04 20:56:12,306  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 20:56:12,849  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 20:56:12,979  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 20:56:14,572 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (052dc5c012c6dd00a20ad406c24c666a)
+2018-12-04 20:56:14,572 DEBUG [main] Log:26 - Create object pages.TweetPage@5db6b9cd
+2018-12-04 20:56:14,573  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 20:56:24,948 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 20:56:24,948 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 20:56:24,963 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (052dc5c012c6dd00a20ad406c24c666a)Close
+2018-12-04 21:03:14,847 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (71217b537d672044a3e3ac003528e17b)
+2018-12-04 21:03:14,853 DEBUG [main] Log:26 - Create object pages.FirstPage@70fab835
+2018-12-04 21:03:14,853  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 21:03:15,187 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (71217b537d672044a3e3ac003528e17b)
+2018-12-04 21:03:15,188 DEBUG [main] Log:26 - Create object pages.LoginPage@1b28f282
+2018-12-04 21:03:16,458 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (71217b537d672044a3e3ac003528e17b)] -> class name: js-username-field]
+2018-12-04 21:03:16,489  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 21:03:16,685  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 21:03:16,778  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 21:03:18,095 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (71217b537d672044a3e3ac003528e17b)
+2018-12-04 21:03:18,095 DEBUG [main] Log:26 - Create object pages.TweetPage@2e8ab815
+2018-12-04 21:03:18,110  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 21:06:39,046 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (bd2edd140100804b466be77a4f74b58e)
+2018-12-04 21:06:39,046 DEBUG [main] Log:26 - Create object pages.FirstPage@70fab835
+2018-12-04 21:06:39,046  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 21:06:39,456 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (bd2edd140100804b466be77a4f74b58e)
+2018-12-04 21:06:39,456 DEBUG [main] Log:26 - Create object pages.LoginPage@1b28f282
+2018-12-04 21:06:40,758 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (bd2edd140100804b466be77a4f74b58e)] -> class name: js-username-field]
+2018-12-04 21:06:40,821  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 21:06:41,414  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 21:06:41,561  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 21:06:43,551 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (bd2edd140100804b466be77a4f74b58e)
+2018-12-04 21:06:43,552 DEBUG [main] Log:26 - Create object pages.TweetPage@2e8ab815
+2018-12-04 21:06:43,553  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 21:15:47,450 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 21:15:47,450 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 21:15:47,450 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (bd2edd140100804b466be77a4f74b58e)Close
+2018-12-04 21:19:42,437 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (e6d9a14e70afcb6e8b0932dfc7cc9518)
+2018-12-04 21:19:42,445 DEBUG [main] Log:26 - Create object pages.FirstPage@70fab835
+2018-12-04 21:19:42,446  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 21:19:42,911 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (e6d9a14e70afcb6e8b0932dfc7cc9518)
+2018-12-04 21:19:42,912 DEBUG [main] Log:26 - Create object pages.LoginPage@1b28f282
+2018-12-04 21:19:44,374 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (e6d9a14e70afcb6e8b0932dfc7cc9518)] -> class name: js-username-field]
+2018-12-04 21:19:44,401  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 21:19:44,637  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 21:19:44,770  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 21:19:45,776 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (e6d9a14e70afcb6e8b0932dfc7cc9518)
+2018-12-04 21:19:45,777 DEBUG [main] Log:26 - Create object pages.TweetPage@2e8ab815
+2018-12-04 21:19:45,777  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 21:21:38,802 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 21:21:38,802 DEBUG [main] Log:26 - Driver is null
+2018-12-04 21:21:38,802 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 21:21:38,802 DEBUG [main] Log:26 - Driver is null
+2018-12-04 21:21:38,802 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (e6d9a14e70afcb6e8b0932dfc7cc9518)Close
+2018-12-04 21:21:55,326 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (00934dbbfaa6e0d098a7877b73907ece)
+2018-12-04 21:21:55,326 DEBUG [main] Log:26 - Create object pages.FirstPage@70fab835
+2018-12-04 21:21:55,326  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 21:21:55,488 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (00934dbbfaa6e0d098a7877b73907ece)
+2018-12-04 21:21:55,489 DEBUG [main] Log:26 - Create object pages.LoginPage@1b28f282
+2018-12-04 21:21:56,703 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (00934dbbfaa6e0d098a7877b73907ece)] -> class name: js-username-field]
+2018-12-04 21:21:56,752  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 21:21:56,941  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 21:21:57,063  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 21:21:58,069 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (00934dbbfaa6e0d098a7877b73907ece)
+2018-12-04 21:21:58,069 DEBUG [main] Log:26 - Create object pages.TweetPage@2e8ab815
+2018-12-04 21:21:58,070  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 21:23:38,504 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 21:23:38,504 DEBUG [main] Log:26 - Driver is null
+2018-12-04 21:23:38,504 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 21:23:38,504 DEBUG [main] Log:26 - Driver is null
+2018-12-04 21:23:38,519 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (00934dbbfaa6e0d098a7877b73907ece)Close
+2018-12-04 21:24:14,719 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (51f30763eb126cf5c4d0257a3427e1a1)
+2018-12-04 21:24:14,721 DEBUG [main] Log:26 - Create object pages.FirstPage@70fab835
+2018-12-04 21:24:14,721  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 21:24:15,099 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (51f30763eb126cf5c4d0257a3427e1a1)
+2018-12-04 21:24:15,100 DEBUG [main] Log:26 - Create object pages.LoginPage@1b28f282
+2018-12-04 21:24:16,511 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (51f30763eb126cf5c4d0257a3427e1a1)] -> class name: js-username-field]
+2018-12-04 21:24:16,550  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 21:24:16,782  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 21:24:16,912  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 21:24:17,922 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (51f30763eb126cf5c4d0257a3427e1a1)
+2018-12-04 21:24:17,923 DEBUG [main] Log:26 - Create object pages.TweetPage@2e8ab815
+2018-12-04 21:24:17,923  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 21:24:53,624 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 21:24:53,624 DEBUG [main] Log:26 - Driver is null
+2018-12-04 21:24:53,624 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 21:24:53,624 DEBUG [main] Log:26 - Driver is null
+2018-12-04 21:24:53,624 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (51f30763eb126cf5c4d0257a3427e1a1)Close
+2018-12-04 22:04:13,226 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (25ac9d1bef90224437c467aaa0d8e595)
+2018-12-04 22:04:13,344 DEBUG [main] Log:26 - Create object pages.FirstPage@29cfd92b
+2018-12-04 22:04:13,345  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 22:04:13,849 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (25ac9d1bef90224437c467aaa0d8e595)
+2018-12-04 22:04:13,849 DEBUG [main] Log:26 - Create object pages.LoginPage@cdc3aae
+2018-12-04 22:04:15,799 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (25ac9d1bef90224437c467aaa0d8e595)] -> class name: js-username-field]
+2018-12-04 22:04:15,882  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 22:04:16,415  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 22:04:16,539  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 22:04:17,811 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (25ac9d1bef90224437c467aaa0d8e595)
+2018-12-04 22:04:17,812 DEBUG [main] Log:26 - Create object pages.TweetPage@1f130eaf
+2018-12-04 22:04:17,812  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 22:10:26,015 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 22:10:26,015 DEBUG [main] Log:26 - Driver is null
+2018-12-04 22:10:26,015 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 22:10:26,015 DEBUG [main] Log:26 - Driver is null
+2018-12-04 22:13:08,952 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (b2ad1900e81094ebb35a6cd17cf9a3a5)
+2018-12-04 22:13:08,979 DEBUG [main] Log:26 - Create object pages.FirstPage@70fab835
+2018-12-04 22:13:08,979  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 22:13:09,250 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (b2ad1900e81094ebb35a6cd17cf9a3a5)
+2018-12-04 22:13:09,250 DEBUG [main] Log:26 - Create object pages.LoginPage@1b28f282
+2018-12-04 22:13:11,421 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (b2ad1900e81094ebb35a6cd17cf9a3a5)] -> class name: js-username-field]
+2018-12-04 22:13:11,679  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-04 22:13:12,375  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 22:13:12,499  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 22:13:13,767 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (b2ad1900e81094ebb35a6cd17cf9a3a5)
+2018-12-04 22:13:13,768 DEBUG [main] Log:26 - Create object pages.TweetPage@2e8ab815
+2018-12-04 22:13:13,768  INFO [main] Log:10 - Click on "Messages" button
+2018-12-04 22:15:44,130 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 22:44:31,107 DEBUG [main] Log:26 - Driver is null
+2018-12-04 22:44:31,107 DEBUG [main] Log:26 - Try to get driver
+2018-12-04 22:44:31,107 DEBUG [main] Log:26 - Driver is null
+2018-12-04 22:44:31,161 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (b2ad1900e81094ebb35a6cd17cf9a3a5)Close
+2018-12-04 23:15:19,259 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (5cc37a72f96aae5afa850de4f28cb851)
+2018-12-04 23:15:19,285 DEBUG [main] Log:26 - Create object pages.FirstPage@75d3a5e0
+2018-12-04 23:15:19,285  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-04 23:15:19,770 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (5cc37a72f96aae5afa850de4f28cb851)
+2018-12-04 23:15:19,771 DEBUG [main] Log:26 - Create object pages.LoginPage@5f049ea1
+2018-12-04 23:15:21,361 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (5cc37a72f96aae5afa850de4f28cb851)] -> class name: js-username-field]
+2018-12-04 23:15:21,432  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-04 23:15:21,804  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-04 23:15:21,913  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-04 23:15:24,856 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (5cc37a72f96aae5afa850de4f28cb851)
+2018-12-04 23:15:24,856 DEBUG [main] Log:26 - Create object pages.TweetPage@821330f
+2018-12-04 23:15:29,078  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-04 23:15:30,118 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-04 23:15:30,381  INFO [main] Log:10 - Click on "Log out" item
+2018-12-04 23:15:31,457 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-04 23:15:31,752 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (5cc37a72f96aae5afa850de4f28cb851)
+2018-12-04 23:15:31,755 DEBUG [main] Log:26 - Create object pages.FirstPage@64b0598
+2018-12-04 23:15:31,794 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (5cc37a72f96aae5afa850de4f28cb851)Close
+2018-12-05 09:17:26,981 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (ba7888a5ce9b3b0a1bb20e6eb489817c)
+2018-12-05 09:17:27,028 DEBUG [main] Log:26 - Create object pages.FirstPage@7161d8d1
+2018-12-05 09:17:27,028  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 09:17:29,411 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (ba7888a5ce9b3b0a1bb20e6eb489817c)
+2018-12-05 09:17:29,411 DEBUG [main] Log:26 - Create object pages.LoginPage@5afa3c9
+2018-12-05 09:17:30,988 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (ba7888a5ce9b3b0a1bb20e6eb489817c)] -> class name: js-username-field]
+2018-12-05 09:17:31,077  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-05 09:17:31,325  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 09:17:31,461  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 09:17:32,863 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (ba7888a5ce9b3b0a1bb20e6eb489817c)
+2018-12-05 09:17:32,864 DEBUG [main] Log:26 - Create object pages.TweetPage@5db6b9cd
+2018-12-05 09:17:32,864  INFO [main] Log:10 - Click on "Messages" button
+2018-12-05 09:17:43,215 DEBUG [main] Log:26 - Try to get driver
+2018-12-05 09:17:46,366 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (36d08a11949736690d6c43b40bb7496a)
+2018-12-05 09:17:48,139 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (ba7888a5ce9b3b0a1bb20e6eb489817c)Close
+2018-12-05 10:11:19,613 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (8b8fd669ac3f212f6f4991d74f06b44a)
+2018-12-05 10:11:19,651 DEBUG [main] Log:26 - Create object pages.FirstPage@7161d8d1
+2018-12-05 10:11:19,651  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 10:11:20,013 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (8b8fd669ac3f212f6f4991d74f06b44a)
+2018-12-05 10:11:20,014 DEBUG [main] Log:26 - Create object pages.LoginPage@5afa3c9
+2018-12-05 10:11:22,076 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (8b8fd669ac3f212f6f4991d74f06b44a)] -> class name: js-username-field]
+2018-12-05 10:11:22,139  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-05 10:11:22,428  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 10:11:22,535  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 10:11:23,625 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (8b8fd669ac3f212f6f4991d74f06b44a)
+2018-12-05 10:11:23,626 DEBUG [main] Log:26 - Create object pages.TweetPage@5db6b9cd
+2018-12-05 10:11:23,626  INFO [main] Log:10 - Click on "Messages" button
+2018-12-05 10:11:34,346 DEBUG [main] Log:26 - Try to get driver
+2018-12-05 10:11:38,018 DEBUG [main] Log:26 - Driver is ChromeDriver: chrome on XP (b842f9a51e4277e857caea2046163d35)
+2018-12-05 10:13:19,943 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (63bff9aea40a8160927787a06694dd14)
+2018-12-05 10:13:19,959 DEBUG [main] Log:26 - Create object pages.FirstPage@3b0fe47a
+2018-12-05 10:13:19,959  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 10:13:20,266 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (63bff9aea40a8160927787a06694dd14)
+2018-12-05 10:13:20,266 DEBUG [main] Log:26 - Create object pages.LoginPage@d737b89
+2018-12-05 10:13:21,610 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (63bff9aea40a8160927787a06694dd14)] -> class name: js-username-field]
+2018-12-05 10:13:21,869  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-05 10:13:22,120  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 10:13:22,267  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 10:13:24,208 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (63bff9aea40a8160927787a06694dd14)
+2018-12-05 10:13:24,208 DEBUG [main] Log:26 - Create object pages.TweetPage@624ea235
+2018-12-05 10:13:24,208  INFO [main] Log:10 - Click on "Messages" button
+2018-12-05 10:25:10,962 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (d9e4585ad6154c0a05c152121bb36e62)
+2018-12-05 10:25:10,966 DEBUG [main] Log:26 - Create object pages.FirstPage@202b0582
+2018-12-05 10:25:10,972  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 10:25:13,192 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (d9e4585ad6154c0a05c152121bb36e62)
+2018-12-05 10:25:13,193 DEBUG [main] Log:26 - Create object pages.LoginPage@8519cb4
+2018-12-05 10:25:13,360 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (d9e4585ad6154c0a05c152121bb36e62)] -> class name: js-username-field]
+2018-12-05 10:25:13,434  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-05 10:25:13,812  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 10:25:13,910  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 10:25:14,090 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (d9e4585ad6154c0a05c152121bb36e62)
+2018-12-05 10:25:14,091 DEBUG [main] Log:26 - Create object pages.TweetPage@3932c79a
+2018-12-05 10:25:14,091  INFO [main] Log:10 - Click on "Messages" button
+2018-12-05 10:25:24,957 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (d9e4585ad6154c0a05c152121bb36e62)Close
+2018-12-05 10:27:13,984 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (1f3444aed2acb88aaf56fb36e55ae772)
+2018-12-05 10:27:13,988 DEBUG [main] Log:26 - Create object pages.FirstPage@202b0582
+2018-12-05 10:27:13,995  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 10:27:14,116 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (1f3444aed2acb88aaf56fb36e55ae772)
+2018-12-05 10:27:14,117 DEBUG [main] Log:26 - Create object pages.LoginPage@8519cb4
+2018-12-05 10:27:16,464 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (1f3444aed2acb88aaf56fb36e55ae772)] -> class name: js-username-field]
+2018-12-05 10:27:16,529  INFO [main] Log:10 - Send to input user name - 7803691@gmail.co
+2018-12-05 10:27:16,840  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 10:27:16,939  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 10:27:18,578 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (1f3444aed2acb88aaf56fb36e55ae772)
+2018-12-05 10:27:18,579 DEBUG [main] Log:26 - Create object pages.TweetPage@3932c79a
+2018-12-05 10:27:18,579  INFO [main] Log:10 - Click on "Messages" button
+2018-12-05 10:27:30,084 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (1f3444aed2acb88aaf56fb36e55ae772)Close
+2018-12-05 10:31:37,032 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (a085df738800000229ef8b4a2ff1a100)
+2018-12-05 10:31:37,052 DEBUG [Test worker] Log:26 - Create object pages.FirstPage@e7e4601
+2018-12-05 10:31:37,053  INFO [Test worker] Log:10 - Click on "Log in" button on First page
+2018-12-05 10:31:37,245 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (a085df738800000229ef8b4a2ff1a100)
+2018-12-05 10:31:37,245 DEBUG [Test worker] Log:26 - Create object pages.LoginPage@3237f42e
+2018-12-05 10:31:42,305 DEBUG [Test worker] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (a085df738800000229ef8b4a2ff1a100)] -> class name: js-username-field]
+2018-12-05 10:31:42,405  INFO [Test worker] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 10:31:43,070  INFO [Test worker] Log:10 - Send to input password - 1q2w3e
+2018-12-05 10:31:43,171  INFO [Test worker] Log:10 - Click on "Log in" button on login page
+2018-12-05 10:31:49,532 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (a085df738800000229ef8b4a2ff1a100)
+2018-12-05 10:31:49,532 DEBUG [Test worker] Log:26 - Create object pages.TweetPage@28c5391e
+2018-12-05 10:31:49,532  INFO [Test worker] Log:10 - Click on "Messages" button
+2018-12-05 10:31:52,128 DEBUG [Test worker] Log:26 - Open Messages page
+2018-12-05 10:31:52,182 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (a085df738800000229ef8b4a2ff1a100)
+2018-12-05 10:31:52,183 DEBUG [Test worker] Log:26 - Create object pages.MessagePage@1589dbbd
+2018-12-05 10:31:52,184  INFO [Test worker] Log:10 - Click on "New message" button
+2018-12-05 10:31:52,503  INFO [Test worker] Log:10 - Input in "Enter name field" recipient -@testAcc02011488
+2018-12-05 10:31:53,119 DEBUG [Test worker] Log:26 - Wait for "Next" button will be enable
+2018-12-05 10:31:53,159  INFO [Test worker] Log:10 - Click on "Next" button
+2018-12-05 10:31:53,416  INFO [Test worker] Log:10 - Write message with text - hi testAccount2d
+2018-12-05 10:31:53,847  INFO [Test worker] Log:10 - Click on "Send" Button
+2018-12-05 10:31:54,027 DEBUG [Test worker] Log:26 - Get text from last message
+2018-12-05 10:31:54,927 DEBUG [Test worker] Log:26 - Get text from last message
+2018-12-05 10:31:55,004 DEBUG [Test worker] Log:26 - HighLight "Close" button
+2018-12-05 10:31:55,090  INFO [Test worker] Log:10 - Click on "Close" button
+2018-12-05 10:31:55,243 DEBUG [Test worker] Log:26 - return to main tweet page
+2018-12-05 10:31:55,245 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (a085df738800000229ef8b4a2ff1a100)
+2018-12-05 10:31:55,246 DEBUG [Test worker] Log:26 - Create object pages.TweetPage@27dfac3c
+2018-12-05 10:31:55,318  INFO [Test worker] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 10:31:55,633 DEBUG [Test worker] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 10:31:55,798  INFO [Test worker] Log:10 - Click on "Log out" item
+2018-12-05 10:31:55,932 DEBUG [Test worker] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 10:31:57,320 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (a085df738800000229ef8b4a2ff1a100)
+2018-12-05 10:31:57,321 DEBUG [Test worker] Log:26 - Create object pages.FirstPage@1cdc0505
+2018-12-05 10:31:57,368 DEBUG [Test worker] Log:26 - ChromeDriver: chrome on XP (a085df738800000229ef8b4a2ff1a100)Close
+2018-12-05 10:32:09,517 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (aeceffe4ab25be04a12057e2d171749e)
+2018-12-05 10:32:09,518 DEBUG [Test worker] Log:26 - Create object pages.FirstPage@6164a7d7
+2018-12-05 10:32:09,519  INFO [Test worker] Log:10 - Click on "Log in" button on First page
+2018-12-05 10:32:09,902 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (aeceffe4ab25be04a12057e2d171749e)
+2018-12-05 10:32:09,903 DEBUG [Test worker] Log:26 - Create object pages.LoginPage@3edcb4f
+2018-12-05 10:32:11,274 DEBUG [Test worker] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (aeceffe4ab25be04a12057e2d171749e)] -> class name: js-username-field]
+2018-12-05 10:32:11,316  INFO [Test worker] Log:10 - Send to input user name - 7835177@gmail.com
+2018-12-05 10:32:11,540  INFO [Test worker] Log:10 - Send to input password - 1q2w3e
+2018-12-05 10:32:11,664  INFO [Test worker] Log:10 - Click on "Log in" button on login page
+2018-12-05 10:32:13,606 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (aeceffe4ab25be04a12057e2d171749e)
+2018-12-05 10:32:13,607 DEBUG [Test worker] Log:26 - Create object pages.TweetPage@66bcb2d7
+2018-12-05 10:32:13,610  INFO [Test worker] Log:10 - Click on "Messages" button
+2018-12-05 10:32:14,817 DEBUG [Test worker] Log:26 - Open Messages page
+2018-12-05 10:32:14,819 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (aeceffe4ab25be04a12057e2d171749e)
+2018-12-05 10:32:14,820 DEBUG [Test worker] Log:26 - Create object pages.MessagePage@2694d660
+2018-12-05 10:32:14,820  INFO [Test worker] Log:10 - Click on "Sender"
+2018-12-05 10:32:19,808 DEBUG [Test worker] Log:26 - Get text from last message
+2018-12-05 10:32:20,226 DEBUG [Test worker] Log:26 - HighLight "Close" button
+2018-12-05 10:32:20,355  INFO [Test worker] Log:10 - Click on "Close" button
+2018-12-05 10:32:20,558 DEBUG [Test worker] Log:26 - return to main tweet page
+2018-12-05 10:32:20,560 DEBUG [Test worker] Log:26 - driver = ChromeDriver: chrome on XP (aeceffe4ab25be04a12057e2d171749e)
+2018-12-05 10:32:20,561 DEBUG [Test worker] Log:26 - Create object pages.TweetPage@2426c96f
+2018-12-05 10:32:20,600  INFO [Test worker] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 10:32:21,794 DEBUG [Test worker] Log:26 - ChromeDriver: chrome on XP (aeceffe4ab25be04a12057e2d171749e)Close
+2018-12-05 10:49:37,755 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (a9a3d9c03875cf7cc3ce1d8de5e5aac7)
+2018-12-05 10:49:37,755 DEBUG [main] Log:26 - Create object pages.FirstPage@74d1dc36
+2018-12-05 10:49:37,803  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 10:49:38,082 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (a9a3d9c03875cf7cc3ce1d8de5e5aac7)
+2018-12-05 10:49:38,083 DEBUG [main] Log:26 - Create object pages.LoginPage@31ea9581
+2018-12-05 10:49:39,574 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (a9a3d9c03875cf7cc3ce1d8de5e5aac7)] -> class name: js-username-field]
+2018-12-05 10:49:39,608  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 10:49:40,133  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 10:49:40,266  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 10:49:48,856 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (a9a3d9c03875cf7cc3ce1d8de5e5aac7)
+2018-12-05 10:49:48,856 DEBUG [main] Log:26 - Create object pages.TweetPage@14dd7b39
+2018-12-05 10:49:48,993  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 10:49:49,186 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 10:49:49,798  INFO [main] Log:10 - Click on "Log out" item
+2018-12-05 10:49:49,942 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 10:49:51,541 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (a9a3d9c03875cf7cc3ce1d8de5e5aac7)
+2018-12-05 10:49:51,541 DEBUG [main] Log:26 - Create object pages.FirstPage@76b07f29
+2018-12-05 10:49:51,649 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (a9a3d9c03875cf7cc3ce1d8de5e5aac7)Close
+2018-12-05 10:52:48,213 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (fd442882699ad7c776f94716ea5b8d0b)
+2018-12-05 10:52:48,213 DEBUG [main] Log:26 - Create object pages.FirstPage@74d1dc36
+2018-12-05 10:52:48,244  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 10:52:48,662 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (fd442882699ad7c776f94716ea5b8d0b)
+2018-12-05 10:52:48,662 DEBUG [main] Log:26 - Create object pages.LoginPage@7c137fd5
+2018-12-05 10:52:50,156 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (fd442882699ad7c776f94716ea5b8d0b)] -> class name: js-username-field]
+2018-12-05 10:52:50,217  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 10:52:50,645  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 10:52:50,771  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 10:52:53,030 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (fd442882699ad7c776f94716ea5b8d0b)
+2018-12-05 10:52:53,030 DEBUG [main] Log:26 - Create object pages.TweetPage@6cd24612
+2018-12-05 10:52:54,781  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 10:52:55,098 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 10:52:55,418  INFO [main] Log:10 - Click on "Log out" item
+2018-12-05 10:52:56,597 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 10:52:56,663 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (fd442882699ad7c776f94716ea5b8d0b)
+2018-12-05 10:52:56,663 DEBUG [main] Log:26 - Create object pages.FirstPage@376a0d86
+2018-12-05 10:52:56,954 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (fd442882699ad7c776f94716ea5b8d0b)Close
+2018-12-05 10:53:28,382 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (6eb0821a3e58d1a08af412be09b213bf)
+2018-12-05 10:53:28,397 DEBUG [main] Log:26 - Create object pages.FirstPage@74d1dc36
+2018-12-05 10:53:28,881  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 10:53:29,028 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (6eb0821a3e58d1a08af412be09b213bf)
+2018-12-05 10:53:29,029 DEBUG [main] Log:26 - Create object pages.LoginPage@5b38c1ec
+2018-12-05 10:53:30,265 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (6eb0821a3e58d1a08af412be09b213bf)] -> class name: js-username-field]
+2018-12-05 10:53:30,609  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 10:53:30,844  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 10:53:30,979  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 10:53:33,284 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (6eb0821a3e58d1a08af412be09b213bf)
+2018-12-05 10:53:33,285 DEBUG [main] Log:26 - Create object pages.TweetPage@45efd90f
+2018-12-05 10:53:34,351  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 10:53:38,269 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 10:53:38,443  INFO [main] Log:10 - Click on "Log out" item
+2018-12-05 10:53:42,700 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 10:53:42,744 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (6eb0821a3e58d1a08af412be09b213bf)
+2018-12-05 10:53:42,744 DEBUG [main] Log:26 - Create object pages.FirstPage@2bec854f
+2018-12-05 10:53:42,744 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (6eb0821a3e58d1a08af412be09b213bf)Close
+2018-12-05 11:03:49,273 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (a908a7a19d8bebe8a5f855a5505c2c61)
+2018-12-05 11:03:49,273 DEBUG [main] Log:26 - Create object pages.FirstPage@74d1dc36
+2018-12-05 11:03:49,845  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 11:03:50,002 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (a908a7a19d8bebe8a5f855a5505c2c61)
+2018-12-05 11:03:50,002 DEBUG [main] Log:26 - Create object pages.LoginPage@30f842ca
+2018-12-05 11:03:51,569 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (a908a7a19d8bebe8a5f855a5505c2c61)] -> class name: js-username-field]
+2018-12-05 11:03:51,636  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 11:03:52,250  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 11:03:52,344  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 11:04:00,137 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (a908a7a19d8bebe8a5f855a5505c2c61)
+2018-12-05 11:04:00,137 DEBUG [main] Log:26 - Create object pages.TweetPage@38af9828
+2018-12-05 11:04:00,224  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 11:04:00,427 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 11:04:00,651  INFO [main] Log:10 - Click on "Log out" item
+2018-12-05 11:04:00,770 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 11:04:02,056 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (a908a7a19d8bebe8a5f855a5505c2c61)
+2018-12-05 11:04:02,059 DEBUG [main] Log:26 - Create object pages.FirstPage@6f1c29b7
+2018-12-05 11:04:02,072 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (a908a7a19d8bebe8a5f855a5505c2c61)Close
+2018-12-05 11:04:54,414 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (d16f601fa740ae4e17a87754e3220bbb)
+2018-12-05 11:04:54,414 DEBUG [main] Log:26 - Create object pages.FirstPage@7161d8d1
+2018-12-05 11:04:54,937  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 11:04:55,042 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (d16f601fa740ae4e17a87754e3220bbb)
+2018-12-05 11:04:55,042 DEBUG [main] Log:26 - Create object pages.LoginPage@d2de489
+2018-12-05 11:04:56,454 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (d16f601fa740ae4e17a87754e3220bbb)] -> class name: js-username-field]
+2018-12-05 11:04:56,496  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 11:04:57,004  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 11:04:57,115  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 11:05:03,171 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (d16f601fa740ae4e17a87754e3220bbb)
+2018-12-05 11:05:03,171 DEBUG [main] Log:26 - Create object pages.TweetPage@5e17553a
+2018-12-05 11:05:03,321  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 11:05:03,500 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 11:05:03,618  INFO [main] Log:10 - Click on "Log out" item
+2018-12-05 11:05:05,140 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 11:05:05,199 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (d16f601fa740ae4e17a87754e3220bbb)
+2018-12-05 11:05:05,201 DEBUG [main] Log:26 - Create object pages.FirstPage@48c76607
+2018-12-05 11:05:05,458 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (d16f601fa740ae4e17a87754e3220bbb)Close
+2018-12-05 11:08:41,672 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (4ddf3b902cd009b56e52163c906db211)
+2018-12-05 11:08:41,672 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 11:08:42,027 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (4ddf3b902cd009b56e52163c906db211)Close
+2018-12-05 11:09:30,561 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (6c00c8cef3df6bfd745698b552faf5c8)
+2018-12-05 11:09:30,576 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 11:09:31,082 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (6c00c8cef3df6bfd745698b552faf5c8)Close
+2018-12-05 11:12:58,963 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (fb642a409211236c320a3f18cf7333d4)
+2018-12-05 11:12:58,963 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 11:12:59,050 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (fb642a409211236c320a3f18cf7333d4)Close
+2018-12-05 11:20:40,088 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (f9078e46e76b3244f4d006be0f0e9d03)
+2018-12-05 11:20:40,088 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 11:20:40,155 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (f9078e46e76b3244f4d006be0f0e9d03)Close
+2018-12-05 11:21:21,438 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (0f633de429edecdd63ed07b46c3e0e8e)
+2018-12-05 11:21:21,438 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 11:21:22,136 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (0f633de429edecdd63ed07b46c3e0e8e)Close
+2018-12-05 11:26:03,927 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (b707e88bb1c93ed9ac7f05a03cd89994)
+2018-12-05 11:26:03,930 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 11:26:03,963 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (b707e88bb1c93ed9ac7f05a03cd89994)Close
+2018-12-05 11:31:07,248 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (5fbd0b35c7e39c3cc54df4a5954db0bb)
+2018-12-05 11:31:07,252 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 11:31:07,495 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (5fbd0b35c7e39c3cc54df4a5954db0bb)Close
+2018-12-05 11:32:37,769 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (3a36ebabab3593246f02e030a6a767fc)
+2018-12-05 11:32:37,769 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 11:32:38,306 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (3a36ebabab3593246f02e030a6a767fc)Close
+2018-12-05 11:33:18,189 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (7fa30a180fb5f7bfcd6a5fb4efecd9e1)
+2018-12-05 11:33:18,198 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 11:33:50,559 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (7fa30a180fb5f7bfcd6a5fb4efecd9e1)Close
+2018-12-05 11:34:45,863 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (bf673b7e6148e9622be8e64f3307593e)
+2018-12-05 11:34:45,868 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 11:35:40,273 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (bf673b7e6148e9622be8e64f3307593e)Close
+2018-12-05 11:36:32,643 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (00d4cc2ab9208a82744e0c57edd02128)
+2018-12-05 11:36:32,647 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 11:37:04,514 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (00d4cc2ab9208a82744e0c57edd02128)Close
+2018-12-05 11:38:47,371 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (c08d06023998ed00e251c5649ecce255)
+2018-12-05 11:38:47,431 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 11:39:13,766 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (c08d06023998ed00e251c5649ecce255)Close
+2018-12-05 11:40:55,144 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (3c58c10c5aa594b2c28d4518bf6b4cbc)
+2018-12-05 11:40:55,160 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 11:41:57,101 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (3c58c10c5aa594b2c28d4518bf6b4cbc)Close
+2018-12-05 11:42:40,118 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (64c2ebd6f4e22d597a65374f17bd73d8)
+2018-12-05 11:42:40,125 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 11:43:11,753 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (64c2ebd6f4e22d597a65374f17bd73d8)Close
+2018-12-05 11:46:03,514 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (8c1c955129f2b617ba2bf37f901a97a3)
+2018-12-05 11:46:03,514 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 11:46:29,353 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (8c1c955129f2b617ba2bf37f901a97a3)Close
+2018-12-05 11:48:55,926 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (9f333741f6a54b5d6aa11bd07391fd6f)
+2018-12-05 11:48:55,926 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 11:49:18,579 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (9f333741f6a54b5d6aa11bd07391fd6f)Close
+2018-12-05 11:50:09,659 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (617c24e4c0e04d4063e4f97146d5c3a0)
+2018-12-05 11:50:09,659 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 11:50:10,154 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (617c24e4c0e04d4063e4f97146d5c3a0)Close
+2018-12-05 11:50:30,394 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (1cdb435af9594255fd91c3e6229f3508)
+2018-12-05 11:50:30,394 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 11:50:43,881 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (1cdb435af9594255fd91c3e6229f3508)Close
+2018-12-05 11:54:06,872 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (66871fafc83987139fe366e308329d0f)
+2018-12-05 11:54:06,872 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 11:54:32,726 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (66871fafc83987139fe366e308329d0f)Close
+2018-12-05 12:00:33,522 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (85825a027641eabf5828ea1be243bee4)
+2018-12-05 12:00:33,522 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 12:00:33,553 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (85825a027641eabf5828ea1be243bee4)Close
+2018-12-05 12:00:59,971 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (1b594475f491b4a97ed4a3a144f56a2b)
+2018-12-05 12:00:59,971 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 12:01:09,400 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (1b594475f491b4a97ed4a3a144f56a2b)Close
+2018-12-05 12:06:04,542 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (80dd8455480273e592bcbbe3a7c75985)
+2018-12-05 12:06:04,557 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 12:06:26,307 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (80dd8455480273e592bcbbe3a7c75985)Close
+2018-12-05 12:09:42,240 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (c38bb3cbbc834164e24fd85c671024a3)
+2018-12-05 12:09:42,240 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 12:10:13,661 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (c38bb3cbbc834164e24fd85c671024a3)Close
+2018-12-05 12:13:07,626 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (c038608583c87431875db446664eb1b0)
+2018-12-05 12:13:07,657 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 12:16:12,928 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (0de9f0a0a3312b684a139841b77e27c8)
+2018-12-05 12:16:12,928 DEBUG [main] Log:26 - Create object pages.FirstPage@56e07a08
+2018-12-05 12:38:14,146 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (2da44236980c5203ce5e3f5befb0d998)
+2018-12-05 12:38:14,176 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 12:38:17,839 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (2da44236980c5203ce5e3f5befb0d998)Close
+2018-12-05 12:45:54,574 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (0db7a19fd0ab90e44534fbe703180d9b)
+2018-12-05 12:45:54,577 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 12:46:02,905 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (0db7a19fd0ab90e44534fbe703180d9b)Close
+2018-12-05 12:47:02,804 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (b35be68e8df57b54e22751c7f375fab6)
+2018-12-05 12:47:02,808 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 12:47:11,059 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (b35be68e8df57b54e22751c7f375fab6)Close
+2018-12-05 12:47:32,937 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (083a1531699c38edb0072073790f32ff)
+2018-12-05 12:47:32,940 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 12:47:41,194 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (083a1531699c38edb0072073790f32ff)Close
+2018-12-05 12:50:34,604 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (12973ad21ec6f39599c72c82df2f8565)
+2018-12-05 12:50:34,604 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 12:50:34,805 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (12973ad21ec6f39599c72c82df2f8565)Close
+2018-12-05 12:51:10,241 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (5b4ec17aa38a0afd042b5a23919ea370)
+2018-12-05 12:51:10,241 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 12:51:15,755 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (5b4ec17aa38a0afd042b5a23919ea370)Close
+2018-12-05 12:52:05,402 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (6f21cd3cbba02438ff7f2d096b90fcd1)
+2018-12-05 12:52:05,402 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 12:52:05,877 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (6f21cd3cbba02438ff7f2d096b90fcd1)Close
+2018-12-05 12:53:20,889 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (33be2b6cb965e4a24ce44d1817ba6769)Close
+2018-12-05 13:02:57,555 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (e80b9b1614a771476ca609b904741987)Close
+2018-12-05 13:04:26,228 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (e12d597715591ec606dce46913f57908)Close
+2018-12-05 14:18:39,743 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (dc28380384e5492b4b46f8668b6a1022)
+2018-12-05 14:18:39,790 DEBUG [main] Log:26 - Create object pages.FirstPage@27406a17
+2018-12-05 14:18:48,333 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (dc28380384e5492b4b46f8668b6a1022)Close
+2018-12-05 15:11:06,936  INFO [main] Log:10 - Configuration file cannot be found
+2018-12-05 15:12:25,539 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (2da8923691ee3e78c3e222dbef3a0f75)
+2018-12-05 15:12:25,542 DEBUG [main] Log:26 - Create object pages.FirstPage@74d1dc36
+2018-12-05 15:12:25,542  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 15:12:26,000 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (2da8923691ee3e78c3e222dbef3a0f75)
+2018-12-05 15:12:26,001 DEBUG [main] Log:26 - Create object pages.LoginPage@72cc7e6f
+2018-12-05 15:12:28,327 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (2da8923691ee3e78c3e222dbef3a0f75)] -> class name: js-username-field]
+2018-12-05 15:12:28,493  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 15:12:29,393  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 15:12:29,511  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 15:12:35,962 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (2da8923691ee3e78c3e222dbef3a0f75)
+2018-12-05 15:12:35,967 DEBUG [main] Log:26 - Create object pages.TweetPage@6f43c82
+2018-12-05 15:12:44,673  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 15:12:45,639 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 15:12:45,960  INFO [main] Log:10 - Click on "Log out" item
+2018-12-05 15:12:47,796 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 15:12:48,113 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (2da8923691ee3e78c3e222dbef3a0f75)
+2018-12-05 15:12:48,114 DEBUG [main] Log:26 - Create object pages.FirstPage@18f8cd79
+2018-12-05 15:12:48,154 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (2da8923691ee3e78c3e222dbef3a0f75)Close
+2018-12-05 15:37:42,841  INFO [main] Log:10 - Configuration file cannot be found
+2018-12-05 15:37:52,110  INFO [main] Log:10 - Configuration file cannot be found
+2018-12-05 15:43:13,443 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (1830a55b8e0058fd39422eb394842f2b)
+2018-12-05 15:43:13,443 DEBUG [main] Log:26 - Create object pages.FirstPage@74d1dc36
+2018-12-05 15:43:13,458  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 15:43:13,671 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (1830a55b8e0058fd39422eb394842f2b)
+2018-12-05 15:43:13,672 DEBUG [main] Log:26 - Create object pages.LoginPage@72cc7e6f
+2018-12-05 15:43:14,944 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (1830a55b8e0058fd39422eb394842f2b)] -> class name: js-username-field]
+2018-12-05 15:43:15,289  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 15:43:15,513  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 15:43:15,656  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 15:43:23,365 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (1830a55b8e0058fd39422eb394842f2b)
+2018-12-05 15:43:23,366 DEBUG [main] Log:26 - Create object pages.TweetPage@6f43c82
+2018-12-05 15:43:23,446  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 15:43:23,723 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 15:43:24,121  INFO [main] Log:10 - Click on "Log out" item
+2018-12-05 15:43:24,261 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 15:43:26,788 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (1830a55b8e0058fd39422eb394842f2b)
+2018-12-05 15:43:26,788 DEBUG [main] Log:26 - Create object pages.FirstPage@18f8cd79
+2018-12-05 15:43:26,788 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (1830a55b8e0058fd39422eb394842f2b)Close
+2018-12-05 15:44:11,381 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (3fd6fe36060a6d4ed1144bb00a9feab1)
+2018-12-05 15:44:11,381 DEBUG [main] Log:26 - Create object pages.FirstPage@74d1dc36
+2018-12-05 15:44:11,397  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 15:44:11,829 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (3fd6fe36060a6d4ed1144bb00a9feab1)
+2018-12-05 15:44:11,830 DEBUG [main] Log:26 - Create object pages.LoginPage@72cc7e6f
+2018-12-05 15:44:13,481 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (3fd6fe36060a6d4ed1144bb00a9feab1)] -> class name: js-username-field]
+2018-12-05 15:44:13,509  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 15:44:13,784  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 15:44:13,916  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 15:44:16,885 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (3fd6fe36060a6d4ed1144bb00a9feab1)
+2018-12-05 15:44:16,887 DEBUG [main] Log:26 - Create object pages.TweetPage@6f43c82
+2018-12-05 15:44:18,444  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 15:44:19,153 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 15:44:19,252  INFO [main] Log:10 - Click on "Log out" item
+2018-12-05 15:44:20,637 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 15:44:20,708 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (3fd6fe36060a6d4ed1144bb00a9feab1)
+2018-12-05 15:44:20,708 DEBUG [main] Log:26 - Create object pages.FirstPage@18f8cd79
+2018-12-05 15:44:20,708 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (3fd6fe36060a6d4ed1144bb00a9feab1)Close
+2018-12-05 15:45:53,627 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (98faaeb411374c54b6c0f17f1587b1c0)
+2018-12-05 15:45:53,643 DEBUG [main] Log:26 - Create object pages.FirstPage@74d1dc36
+2018-12-05 15:45:53,643  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 15:45:53,771 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (98faaeb411374c54b6c0f17f1587b1c0)
+2018-12-05 15:45:53,772 DEBUG [main] Log:26 - Create object pages.LoginPage@72cc7e6f
+2018-12-05 15:45:55,291 DEBUG [main] Log:26 - HighlightElement [[ChromeDriver: chrome on XP (98faaeb411374c54b6c0f17f1587b1c0)] -> class name: js-username-field]
+2018-12-05 15:45:55,346  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 15:45:55,570  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 15:45:55,702  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 15:46:12,754 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (98faaeb411374c54b6c0f17f1587b1c0)
+2018-12-05 15:46:12,754 DEBUG [main] Log:26 - Create object pages.TweetPage@6f43c82
+2018-12-05 15:46:12,815  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 15:46:13,023 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 15:46:13,110  INFO [main] Log:10 - Click on "Log out" item
+2018-12-05 15:46:13,229 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 15:46:15,320 DEBUG [main] Log:26 - driver = ChromeDriver: chrome on XP (98faaeb411374c54b6c0f17f1587b1c0)
+2018-12-05 15:46:15,322 DEBUG [main] Log:26 - Create object pages.FirstPage@18f8cd79
+2018-12-05 15:46:15,328 DEBUG [main] Log:26 - ChromeDriver: chrome on XP (98faaeb411374c54b6c0f17f1587b1c0)Close
+2018-12-05 15:49:33,103 DEBUG [main] Log:26 - driver = FirefoxDriver: firefox on XP (c205da50-96e8-47df-a932-1e96d94e9af5)
+2018-12-05 15:49:33,103 DEBUG [main] Log:26 - Create object pages.FirstPage@18271936
+2018-12-05 15:49:33,103  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 15:49:33,509 DEBUG [main] Log:26 - driver = FirefoxDriver: firefox on XP (c205da50-96e8-47df-a932-1e96d94e9af5)
+2018-12-05 15:49:33,509 DEBUG [main] Log:26 - Create object pages.LoginPage@231f98ef
+2018-12-05 15:49:34,728 DEBUG [main] Log:26 - HighlightElement [[FirefoxDriver: firefox on XP (c205da50-96e8-47df-a932-1e96d94e9af5)] -> class name: js-username-field]
+2018-12-05 15:49:34,759  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 15:49:35,416  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 15:49:35,462  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 15:49:38,056 DEBUG [main] Log:26 - driver = FirefoxDriver: firefox on XP (c205da50-96e8-47df-a932-1e96d94e9af5)
+2018-12-05 15:49:38,072 DEBUG [main] Log:26 - Create object pages.TweetPage@4f49f6af
+2018-12-05 15:49:38,134  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 15:49:41,728 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 15:50:10,603 DEBUG [main] Log:26 - take screenshot
+2018-12-05 15:52:53,485 DEBUG [main] Log:26 - driver = FirefoxDriver: firefox on WINDOWS (391c9fc6-4ab8-4f73-b5a7-2f40fd65486c)
+2018-12-05 15:52:53,485 DEBUG [main] Log:26 - Create object pages.FirstPage@18271936
+2018-12-05 15:52:53,485  INFO [main] Log:10 - Click on "Log in" button on First page
+2018-12-05 15:52:54,251 DEBUG [main] Log:26 - driver = FirefoxDriver: firefox on WINDOWS (391c9fc6-4ab8-4f73-b5a7-2f40fd65486c)
+2018-12-05 15:52:54,251 DEBUG [main] Log:26 - Create object pages.LoginPage@231f98ef
+2018-12-05 15:52:56,564 DEBUG [main] Log:26 - HighlightElement [[FirefoxDriver: firefox on WINDOWS (391c9fc6-4ab8-4f73-b5a7-2f40fd65486c)] -> class name: js-username-field]
+2018-12-05 15:52:56,939  INFO [main] Log:10 - Send to input user name - 7803691@gmail.com
+2018-12-05 15:52:58,079  INFO [main] Log:10 - Send to input password - 1q2w3e
+2018-12-05 15:52:58,439  INFO [main] Log:10 - Click on "Log in" button on login page
+2018-12-05 15:53:10,985 DEBUG [main] Log:26 - driver = FirefoxDriver: firefox on WINDOWS (391c9fc6-4ab8-4f73-b5a7-2f40fd65486c)
+2018-12-05 15:53:10,985 DEBUG [main] Log:26 - Create object pages.TweetPage@4f49f6af
+2018-12-05 15:53:11,064  INFO [main] Log:10 - Click on "Profile and Settings Icon"
+2018-12-05 15:53:11,568 DEBUG [main] Log:26 - Wait for "Log Out" item will be visible
+2018-12-05 15:53:11,677  INFO [main] Log:10 - Click on "Log out" item
+2018-12-05 15:53:14,257 DEBUG [main] Log:26 - Wait for "Log out" button on First Page 
+2018-12-05 15:53:14,320 DEBUG [main] Log:26 - driver = FirefoxDriver: firefox on WINDOWS (391c9fc6-4ab8-4f73-b5a7-2f40fd65486c)
+2018-12-05 15:53:14,320 DEBUG [main] Log:26 - Create object pages.FirstPage@2415fc55
+2018-12-05 15:53:14,335 DEBUG [main] Log:26 - FirefoxDriver: firefox on WINDOWS (391c9fc6-4ab8-4f73-b5a7-2f40fd65486c)Close

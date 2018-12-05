@@ -1,28 +1,38 @@
 package com.kdv.tests;
 
+import org.testng.Assert;
+import pages.FirstPage;
 import pages.LoginPage;
+import utils.PageLoadCondition;
 import pages.TweetPage;
-import org.openqa.selenium.By;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class TweetWithImage extends FunctionalTest {
+
+    private FirstPage firstPage;
 
     @BeforeMethod
     public void setUpTweetWithImage() {
         driver.get("https://twitter.com/login");
     }
 
-    @Test
-    public void testTweetWithImage() {
-        By tweetListLocator;
-        String tweetText = "Some message5";
-        String pathToFile = "C:\\Users\\admin\\Documents\\dumps\\123.jpg";
+    @Test(dataProvider = "dataForTweetWithImage", dataProviderClass = DataForTest.class)
+    public void testTweetWithImage(String login, String password, String message, String pathToFile) {
         LoginPage loginPage = new LoginPage(driver);
-        loginPage.typeUserName("7803691@gmail.com");
-        loginPage.typePassword("1q2w3e");
+        loginPage.typeUserName(login);
+        loginPage.typePassword(password);
         TweetPage tweetPage = loginPage.submitLogin();
-        tweetPage.writeTweetWithImage(tweetText,"C:\\Users\\admin\\Documents\\dumps\\123.jpg");
+
+        //Call function for waiting page complete loaded
+        PageLoadCondition.waitForLoad(driver);
+        System.out.println(tweetPage.getCountOfTwitts());
+        tweetPage.writeTweetWithImage(message,pathToFile);
+
+        Assert.assertTrue(tweetPage.imagePresntInTwitt());
+        System.out.println(tweetPage.getCountOfTwitts());
+        firstPage = tweetPage.logout();
+
     }
 
 

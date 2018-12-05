@@ -1,18 +1,28 @@
 package pages;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import utils.Log;
 
 public class ReTweetPage extends PageObject {
 
-    private By reTweetBox = By.id("retweet-with-comment");
-    private By reTweetButton = By.cssSelector("span.RetweetDialog-tweetActionLabel");
+    @FindBy(id="retweet-with-comment")
+    private WebElement reTweetBox;
+    @FindBy(css = "span.RetweetDialog-tweetActionLabel")
+    private WebElement reTweetButton;
 
-    public TweetPage addComment(String comment){
-        driver.findElement(reTweetBox).sendKeys(comment);
-        driver.findElement(reTweetButton).click();
-        return new TweetPage();
+    public ReTweetPage(WebDriver driver) {
+        super(driver);
     }
 
 
+    public TweetPage addComment(String comment){
+        Log.info("Write comment with text - " + comment);
+        this.reTweetBox.sendKeys(comment);
+        Log.info("Click on \"Retweet buttom\"");
+        this.reTweetButton.click();
+        Log.debug("Return main tweet page");
+        return new TweetPage(driver);
+    }
 }
